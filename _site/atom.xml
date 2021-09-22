@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>I Miss Cover Flow</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-08-19T02:08:55+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Kevin Gu</name>
+   <email>wxkevingu@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>WWDC20 Keynote 观后</title>
+   <link href="http://localhost:4000/2020/06/23/thoughts-on-WWDC20-keynote/"/>
+   <updated>2020-06-23T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2020/06/23/thoughts-on-WWDC20-keynote</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;刚看完 WWDC20 的 Keynote 直播（不如说是录像带放送）。可以说的点很多。最近几年的 WWDC Keynote 大多乏味，看完立刻想睡觉。WWDC20 显然不无聊。今天的这场 Keynote 基本上定义了 Mac，甚至旗下所有计算品牌未来的新方向。&lt;/p&gt;
+
+&lt;p&gt;Keynote 是和几位朋友凑在 Skype 上连线观看的。倒计时等得心痒痒。「Good morning!」快成为加州版「我想死你们啦！」。也预感到 Cook 会就 #BLM 和 COVID-19 发表时事评论。&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;iOS 环节，苹果终于没有再拿两个饼图比 Android 和 iOS 的新版本更新率。&lt;/p&gt;
+
+&lt;p&gt;一场主屏幕拉皮手术，像是对 Android OG 的一场跨时代致（chao）敬（xi）。一个设计的反思是，widget 并没有替代 app icon 作为 app 的入口，那 News widget 下面为什么还要标明「News」？如果 News 的 widget 不够明显到这是 News, then why here?&lt;/p&gt;
+
+&lt;p&gt;widget 看起来应该都是 4x2 或者 2x2 的大小。排布的位置也被做了固定，比如 2x2 的 widget 上下必须要有 2x2 个图标来视觉对齐。Restrictions are fine if people don’t have good aesthetics. 我本人除了第一屏和 Dock 会整理剩下的都靠 Spotlight 去搜，主屏幕对我来说就是个 app launcher，恐怕只要天气和日历摆出来就行。&lt;/p&gt;
+
+&lt;p&gt;我喜欢这个会上下滚动的 widget。它让我想起 Windows Phone 那个富有动感的桌面。&lt;/p&gt;
+
+&lt;p&gt;一个 developer detail 是：widget 需要 SwiftUI。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007S8ZIlgy1gg1p1c8676j30mq0qkqjt.jpg&quot; alt=&quot;image-20200623034935580&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;App Library，应用库。再次让人想起 Android 上使用多年的设计「应用抽屉」。区别是用了机器学习来自动分类展示。我本人不是用文件夹的人，所以不是很喜欢这个设计。&lt;/p&gt;
+
+&lt;p&gt;Compact calls，所谓「紧凑来电」，支持 CallKit。让我为越狱社区掬把泪。R.I.P. CallBar XS. 官方出手，效果好很多。（所以我几美金就这么白花了）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007S8ZIlgy1gg1ph9fk5aj30rc0n4n59.jpg&quot; alt=&quot;image-20200623040456977&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;画中画，emmmmm…&lt;/p&gt;
+
+&lt;p&gt;所以 iOS 14 的主屏幕四大 feature，全是 Android 上冷到不能再冷的冷饭。看的时候很激动，此刻在更新 iOS 14 Public Beta，不知道以后还不会觉得激动。&lt;/p&gt;
+
+&lt;p&gt;iMessage 该有的都有了，除了撤回。弊端是 iMessage 随系统升级，碰到旧系统钉子户新功能还是没法用。这是多么奇怪的策略。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007S8ZIlgy1gg1pr3drdxj31gv0u0ath.jpg&quot; alt=&quot;image-20200623041423693&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;紧凑化的 Siri 设计我觉得还不如 reddit r/jailbreak 的那个最近流行的概念设计好。底下的 Siri logo 做得真是有够丑。&lt;/p&gt;
+
+&lt;p&gt;地图和家庭都是常规升级。翻译 app 现在想来就是提示你，「接下来还有更丑的，这是前菜」。&lt;/p&gt;
+
+&lt;p&gt;AirPods 的自动切换设备解决了一个长久以来的痛点。一个经常出现的场景是，需要从 Mac 切换到 iPhone 上去看一个视频。类似的事情一天会发生起码六七次。AirPods Pro 独占的 spatial audio 体验一会更新在这里。&lt;/p&gt;
+
+&lt;p&gt;App Clips 很有意思。看着就像是小程序系统化（码也像）。小程序不管在哪都是对的。这意味着进入应用的入口在场景里，你可以通过扫一个码或者碰一个 NFC 标签进入对应的 app，而不是在手机上永远留一片一亩三分地。因为不必考虑跨平台， App Clips 不会像基于 HTML+CSS 的微信小程序一样用起来有粗糙感。此外，如果有人以此来神化张小龙我觉得是脑子进水。微信屁都没做对，我说的。&lt;/p&gt;
+
+&lt;p&gt;Update: iOS 14 Public Beta 非常流畅（widget 动画略卡），bug 不多，不会有很多奇怪的控件错位。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;iPadOS 的 sidebars 和 pull-down menus 在横屏下看起来很有空间感。似乎也是在鼓励横屏使用 iPad。所以京东和淘宝能不能给我横屏 app？&lt;/p&gt;
+
+&lt;p&gt;Scribble on iPadOS 比 watchOS 上的效果让人激动百倍。Apple Pencil 立刻价值翻倍。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007S8ZIlgy1gg1qkdennhj31100jwwho.jpg&quot; alt=&quot;image-20200623044237197&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Notes 里的形状识别功能基本上和 Procreate 的实现一致。&lt;/p&gt;
+
+&lt;p&gt;其他也没什么特别，还是想说 Scribble 可以入选「入手 iPad 的三大理由」。太酷了，酷炸了。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;watchOS 睡眠监测，唯一的大功能还是个姗姗来迟的功能？买 app 要花钱，钱不是大风刮来的。不过总算是来了，可以视为 Series 5 电池的一场大考。&lt;/p&gt;
+
+&lt;p&gt;其他就是常规升级。洗手 app 的 UI 有意思。&lt;/p&gt;
+
+&lt;p&gt;哦对了，tvOS 14 之下的 Apple TV 4K 终于可以看 4K YouTube 了。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/007S8ZIlgy1gg1qmaqbe4j31h40u0u0y.jpg&quot; alt=&quot;image-20200623044401510&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;macOS Big Sur 显然是本场 keynote 的最大重点，甚至可以说是唯一重点。&lt;/p&gt;
+
+&lt;p&gt;Big Sur sucks, but ARM Mac rules.&lt;/p&gt;
+
+&lt;p&gt;Big Sur 的 UI 基本就是批发猪饲料。这种诡异的圆角，从图标到应用窗口，让人看着特别倒胃口。Refreshed dock 这种词我是不知道苹果怎么有脸往网页上写的。右上角控制中心按钮隔得那么开，宽松的空间让人觉得这就是个大号 iPadOS。很难想象开几个 app 之后会挤成什么样子。&lt;/p&gt;
+
+&lt;p&gt;Safari 新标签页背景可以自定义图片，浓浓的 Chrome 商店排行榜插件风。&lt;/p&gt;
+
+&lt;p&gt;我目前只看见 MKBHD 一个人叫好。很难相信。&lt;/p&gt;
+
+&lt;p&gt;三个 OS 基本上就是一些小改进一起共荣，互相凑数。往前写的 feature 都是换皮相关类 feature。&lt;/p&gt;
+
+&lt;p&gt;迁移至 ARM 架构这事（Apple Silicon）终于发生了，新的 macOS 编号也终于成了 11.0。我算是见证过 PowerPC to Intel 的末期。上一次乔布斯带领下的过渡期，早被传颂成了传奇故事。两大利器 Rosetta（翻译程序）和 Universal（编译两套平台的应用）在完整过渡后在 macOS 里短暂地消失了。新的时代，这俩又换上新版本再次被应用，过渡应该会非常平顺。甚至有新的虚拟化技术，demo 看起来非常顺畅。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/EbIzSw2VAAAhVPA?format=png&amp;amp;name=medium&quot; alt=&quot;圖片&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.vox-cdn.com/thumbor/EUysNWJwtSYQVx_VXTfuEl5MdCU=/0x0:1080x607/1200x0/filters:focal(0x0:1080x607):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20047265/oMSmxB7.png&quot; alt=&quot;img&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;苹果在 ARM 上花了多少心思，做了多少准备应该不用多说了。iPhone OS 出生的第一天，和 Mac OS X 用的就是几乎一样的 Core OS。两年的架构过渡期，加上 Catalina 又为纯 64 位化的实现实践了一年。而且 ARM 在 iOS 的实现一直是 little endian 的（这和 Intel CPU 一致）。开发者有充足的时间做开发准备，消费者有充足的时间做思想准备——&lt;/p&gt;
+
+&lt;p&gt;我丝毫不怀疑 ARM 架构更省电，能获得和 x86_64 一致甚至更好的性能表现。但很多时候不是性能的问题，而是兼容性，确切地说，是消费群体觉得有没有兼容性的问题。惯性的力量就像 Office 2003 一样。上一次 Mac 换到作为主流阵营的 Intel，换来了市场份额。这次换到 ARM，上述的技术保障下应该不会出什么技术问题，就看消费者会不会心理做鬼。起码英特尔在结束时股价不跌反涨。微软想推 ARM Windows 久矣，这是个趁机一起推进的好机会。我没有别的想说的了。Mac 始终代表先進社會生產力的發展要求。我唯一担忧的是，经此一役，苹果的生态黏性会更加强（但好像也没有那么夸张）。&lt;/p&gt;
+
+&lt;p&gt;天下苦 x86 久矣。Mac OS X 的时代真正结束了，macOS 的时代真正开始了。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>博客一年</title>
+   <link href="http://localhost:4000/2020/05/08/blog-one-year-anniversary/"/>
+   <updated>2020-05-08T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2020/05/08/blog-one-year-anniversary</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;日历弹出提醒，提示我域名要续期了。跳转到 PayPal，网络不是很好，趁着数据包从上海路由到加利福尼亚，又路由回上海，得暇思量片刻。这一年， I Miss Cover Flow 的十来篇文字。没有创造什么社会价值，没有打倒什么阶级敌人。无非是 QQ 空间 Open Web 化，无非是无病呻吟。9.9 美金付完，疫情时期，足以让我如丧考妣，不是一笔小数目。迟迟不加捐助并不是脸皮薄，主要是考虑到捐助款项不足以我购入浦西滨江大平层，算了，眼高手低，一贯如此。&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;其实上面这第一段是昨天，也就是五月七日写的。所以今天（今天还是索尼株式会社周年日）是 IMCF 的第二年的第一天。IMCF 的大多数文字，都是这样今天推明天，明天推后天，慢慢磨出来的。在 MySpace 和新浪博客方兴未艾的时代，我就想过要搭一个 blog。也不知道为什么就在 QQ 空间凑合了很多年。370 天前的夜晚也不知道受了什么刺激，终于醒过来，想起换到真正的「博客」去，并躬行之。&lt;/p&gt;
+
+&lt;p&gt;虽然只要是公开写字的地方就可以算作博客，但 QQ 空间过于 walled garden，而且是 JavaScript 噩梦，简书太土，Medium 用不惯。Built to last，还得自己整。写下来一篇篇的，恶心不了别人，确实可以恶心自己。royink 在群里说他扭头去看自己以前的 blog 标题都会觉得尴尬。这种尴尬，是证明自己进步的一个侧面，没错，但那种尴尬也是很真实的。朋友圈仅半年可见，了不起的设计。&lt;/p&gt;
+
+&lt;p&gt;IMCF 的文字，会有 RSS/Twitter/Telegram Channel 三个访问源头。这三个地方很有意思，看似大家来自五湖四海，本质上都是同样的源头。我没有高兴去做访客数据收集的工作，一方面文字本是写给自己，虽然偶尔有一篇能被稍广地传播会很荣幸（但我在其中只是承担了一个记述者的角色）；另一方面是看官觉得好了加个 RSS，或者留个评论，我能心电感应到，其他的就无所谓了。&lt;/p&gt;
+
+&lt;p&gt;Technically speaking，用 Jekyll，是因为高中听了&lt;a href=&quot;https://pan.icu/3&quot;&gt;这期《内核恐慌》&lt;/a&gt;。域名是在 NameSilo 买的廉价 .xyz 域名。服务器空间蹭的 GitHub Pages。整个搭建也并没有那么简单，不过还是搭起来了。在今天，践行 Open Web 往往是麻烦的，因为不是 by default 操作了，那些圈地为牢的商业集体可以更好地吸引人。此外，Open Web 可能显得虚妄，但一件事情如果没有确切的含义，也不值得去做。我想到的意义是，尽管过去的一年里面并没有真的做成什么事情，但 IMCF 算是小小的喜悦。可见还是要继续写下去，继续写就行了。&lt;/p&gt;
+
+&lt;p&gt;八百字屁话又完成了一篇！Hooray!&lt;/p&gt;
+
+&lt;p&gt;突然想起来，域名是五月七号买的，但是 Jekyll 主体自带一个 bug，修了一个通宵才找到问题。也就是说今天确实是 IMCF 的一周年生日。Surprise! 谢谢大家。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>作为 Mac 游戏容器的 Windows To Go 实践</title>
+   <link href="http://localhost:4000/2020/03/21/wtg-as-mac-game-container/"/>
+   <updated>2020-03-21T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2020/03/21/wtg-as-mac-game-container</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;这一篇 blog，我给出以解决我个人需求为目的的一种经济游戏方案。&lt;/p&gt;
+
+&lt;p&gt;在某个版本的 macOS Mojave 之后，我的 MacBook Pro 2018 就没法正常启动 CSGO，根据这种&lt;a href=&quot;https://github.com/ValveSoftware/csgo-osx-linux/issues/2171#issuecomment-539123680&quot;&gt;解决方案&lt;/a&gt;修改之后可以进入游戏。但开始对局后依旧会立刻闪退。我的猜想是从 macOS Mojave 开始， &lt;a href=&quot;https://apple.slashdot.org/story/18/06/05/1719205/apple-deprecates-opengl-and-opencl-in-macos-1014-mojave&quot;&gt;Apple 开始抛弃 OpenCL/OpenGL&lt;/a&gt;。&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;这是很让人悲观的。谁不知道主流游戏大厂并不热衷于支持 Mac 平台。但毕竟很偶尔也能在 Mac 上看到一些大 title，我对一些并不要求高性能的游戏的体验产生了幻想。田忌赛马，在能玩 CSGO on macOS 的年代里，能极快地加载地图一直是一件谈资。&lt;/p&gt;
+
+&lt;p&gt;但现在的情况是，我常玩（Steam 200+ 小时）的两款游戏，CSGO 和欧洲卡车模拟 2，这种五百块钱的显卡就能带得动高画质的两款主流游戏。一个无法启动，一个在中画质的夜晚道路上开车灯就能卡到个位数 FPS。我已经不玩 EA、育碧、暴雪或者 Rockstar 的游戏了。已经在两万块的电脑上被迫开中画质了。就这？这真的是可以接受的吗？&lt;/p&gt;
+
+&lt;p&gt;我杀苹果一百遍。游戏是不可能不打的，这是我能想到的解决方案：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;del&gt;砸掉 MacBook Pro&lt;/del&gt;&lt;/p&gt;
+
+    &lt;p&gt;可以私信获得我的支付宝二维码。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;del&gt;去网吧 / 借别人的 PC 玩&lt;/del&gt;&lt;/p&gt;
+
+    &lt;p&gt;放假前我一直是去拿室友的电脑玩。很折腾，很麻烦。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;del&gt;组一台 ≈ 三千元的台式机&lt;/del&gt;&lt;/p&gt;
+
+    &lt;p&gt;很烧钱。而且也没有地方放了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;del&gt;eGPU&lt;/del&gt;&lt;/p&gt;
+
+    &lt;p&gt;更烧钱。也占地方。傻子才这样搞。这个方案可笑的地方在于本末倒置。上面几种是「如何找一个正常的环境玩游戏」，eGPU 则试图「把 macOS 变成一个正常的环境」。如果你要玩的游戏在 macOS 上可以流畅运行那显然不用费事了。而对于剩下的那些游戏来说，系统局限性和针对性优化过差，才使得硬件性能完全无法发挥出来。换上 Windows 才是解决的唯一办法。如果 Windows 下还不行那么再上 eGPU 还差不多。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Windows To Go (via NVMe SSD)&lt;/p&gt;
+
+    &lt;p&gt;给您说说。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/Windows_To_Go&quot;&gt;Windows To Go&lt;/a&gt;，字面意思，就是一个 On The Go 的 Windows。维基百科说「Mac 不被支持」，这是错的。你完全可以通过一个正常的企业版 Windows 10、&lt;a href=&quot;https://bbs.luobotou.org/thread-761-1-1.html&quot;&gt;萝卜头的 WTG 辅助工具&lt;/a&gt;或者 &lt;a href=&quot;rufus.ie&quot;&gt;Rufus&lt;/a&gt; 去制作一个可以在 Mac 上正常使用的 WTG 盘。此外：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;WTG 支持 UEFI (GPT 格式磁盘) / BIOS (MBR 格式磁盘)。&lt;/li&gt;
+  &lt;li&gt;启动 WTG 时本机磁盘会处于脱机状态（可以绕过此限制）。&lt;/li&gt;
+  &lt;li&gt;对于启用了 UASP 协议的驱动器，断开连接后会直接蓝屏，而不是 60s 的重新连接窗口。&lt;/li&gt;
+  &lt;li&gt;休眠默认禁用（可以绕过此限制）。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;看起来很美好，不过你还是需要找一个存放 WTG 的容器。U 盘直接被我抛弃了，一个 CSGO + Windows 10 起码要占用 50G 的容量，而 128 GB 的 U 盘普遍是以 USB Type-A 3.0 速率传输的。主要考虑的还是 USB-C 的移动固态。我选购时，三星 T5 和西部数据的 pSSD 差不多都在 1.2 元/GB 的价格。&lt;/p&gt;
+
+&lt;p&gt;但问题来了，pSSD 的写入速度在 500-600 MBps 左右。这是一个很奇怪的数字，我以为移动固态硬盘的速度会在接口上面，也就是 USB 3.1 Gen 2（它的速度上限是 10 Gbps，也就是 1280 MBps）。但三星 T5 写入 540 MBps 的速度只有 3.1 Gen 2 的一半。搜了一下拆解，这采用的是 mSATA 转 USB 3.1 Gen 2 的方案，mSATA 的速度上线是 6 Gbps。如果用 USB 3.1 Gen 1（也就是 USB 3.0）会被转接出的接口速度限制住 (5 Gbps)。所以这些移动固态厂商选择了 mSATA 转 USB 3.1 Gen 2 的方案。而且现在随着存储类价格上涨，pSSD 比我当时看的价格有 100 元左右的涨幅。&lt;/p&gt;
+
+&lt;p&gt;所以我的打算是自己买一块 M.2 NVMe 的固态，套上 USB 3.1 Gen 2 的盒子。我选择的是一款 SSK 的金属盒子，￥120。随附  USB-C to USB-C/USB-A 的两根线缆和 3M 的导热贴。持续使用时散热表现尚可，不会像 MBP 本体散热口处那样烫手。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/00831rSTgy1gd1qokzi87j319b0u0kjm.jpg&quot; alt=&quot;KEV_1868 copy&quot; /&gt;&lt;br /&gt;硬盘方面，即使不看三星 970 Plus Pro 这种，NVMe 的固态也可以跑到 10 Gbps 朝上，不过这样一来接口（USB 3.1 Gen 2, 10 Gbps）又成为了速度的瓶颈。选择太快（=贵）的硬盘就没有必要。我选择的是 WD Black 250GB，￥430。装上盒子后用 BMD 的软件跑了一下读写速度，作为对比的是 MacBook Pro 的 512GB 内建固态。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/00831rSTgy1gd1r0b4rgwj30u00ux1kx.jpg&quot; alt=&quot;Screen Shot 2020-03-12 at 11.45.55 AM&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/00831rSTgy1gd1r0eg6sjj30u00ux1kx.jpg&quot; alt=&quot;Screen Shot 2020-03-12 at 11.43.43 AM&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;安装 WTG 的过程已经有很多的参考文档。你完全可以根据少数派的&lt;a href=&quot;https://sspai.com/post/44699&quot;&gt;这篇&lt;/a&gt;针对 Mac 的 WTG 配置指南来进行操作，但 MacBook Pro 2018 有所特殊，我将根据我的实践简要地复现一下自己的步骤。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;准备 Windows 10 的企业版镜像和对应的 Boot Camp 驱动（打开 Boot Camp 助理，顶部菜单 “Action” &amp;gt; “Download Windows Support Software”）。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;通过工具刷入 Windows To Go。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;（这一步仅需要配备 T2 安全芯片的 Mac 操作）重启 Mac，按住 Command+R 进入 Recovery Mode。菜单栏中选取 “实用工具”&amp;gt;“启动安全性实用工具”。把「安全启动」值设为「无安全性」，「外部启动」值设为「允许从外部介质启动」。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;重启 Mac，按住 option，选择 EFI boot。插入有线键盘和有线鼠标（如果你熟练掌握 tab 键可以不需要鼠标）。WTG 会自动完成安装并自动重启，第一次重启要按住 option 选择 EFI boot 进入 WTG。之后会默认从上次引导项启动。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/00831rSTgy1gd1s9ikkeej31ek0u0b2b.jpg&quot; alt=&quot;image-20200321194022542&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;安装预先准备好的 Boot Camp 驱动。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;最崩溃的就是这个 Boot Camp 驱动（6.1 版本）。装到「Apple USB 虚拟主机控制器」会卡住，内建键盘和 Touch Bar 会失灵。&lt;a href=&quot;https://bbs.luobotou.org/thread-44991-1-1.html&quot;&gt;有说法&lt;/a&gt;是把 drivers/Apple/AppleUSBVHCI 这个文件夹先移走，装完后再单独安装。我大力出奇迹，暴力拔盘，强行重启。其实也可以用有线的外接键盘开出 cmd，”shundown -r -t 5”。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/00831rSTgy1gd1s8kpb4yj316p0u07wi.jpg&quot; alt=&quot;IMG_4060&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我的 2018 款 MBP 刚入手的时候 macOS 下扬声器有破音（具体我有拍在 vlog 里面），后来被修复了。没有想到在 Windows 下这个 Cirrus Logic 芯片引起的问题还是没有完全解决。Windows Update 推送的 Apple-MEDIA 驱动更新好像也没有什么作用。这个疑似无解，最好插耳机。&lt;/p&gt;
+
+&lt;p&gt;看起来没有问题了。于是我开心地打了几天枪，甚至发现可以流畅玩盗版的 Forza Horizon 4。悲惨的事情发生了。在某次启动后，Apple Software Update 检测到了 6.1.10 版本的 Boot Camp 驱动更新，包含了对 Pro Display XDR 的更新 blahblah。&lt;/p&gt;
+
+&lt;p&gt;安装到一半死机了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/00831rSTgy1gd1sajtr2kj30w00u01l0.jpg&quot; alt=&quot;image-20200321194121898&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;强行重启后发现 Touch Bar 不亮了，显卡驱动从红色的 AMD 图标（右键桌面显示 AMD Radeon Settings）变成了 Pro 版本的蓝色 AMD 驱动（右键桌面显示 AMD Radeon Pro and AMD FirePro Advanced Settings）。也不是很影响使用。但我趁半价入正了 Horizon 4，却因为装过盗版没法安装正版。这是很没法接受的事情，所以我用设置里的重置 Windows 功能抹了一遍。可以正常下载了，但 AMD 驱动和 Apple Software Update 不见了，Boot Camp 驱动也装不上。只好重新刷入了崭新的 WTG 环境，并苟在 6.1 版本 BC 驱动。起码可以 1080p 流畅地平线 4 以及中画质稳定 120 fps CSGO。不怕费事的可以试 AMD 给的这个新版 &lt;a href=&quot;https://www.amd.com/zh-hant/support/kb/release-notes/apple-boot-camp&quot;&gt;BC 显卡驱动&lt;/a&gt;，卵更大的可以试这个&lt;a href=&quot;https://www.bootcampdrivers.com/&quot;&gt;鸡血版民间驱动&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;现在我可以玩游戏了。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>如果你在淘宝卖进口唱片</title>
+   <link href="http://localhost:4000/2020/02/15/if-you-sell-music-on-taobao/"/>
+   <updated>2020-02-15T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2020/02/15/if-you-sell-music-on-taobao</id>
+   <content type="html">&lt;head&gt;
+&lt;!-- Primary Meta Tags --&gt;
+&lt;title&gt;如果你在淘宝卖进口唱片&lt;/title&gt;
+&lt;meta name=&quot;title&quot; content=&quot;如果你在淘宝卖进口唱片&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;二月底淘宝整治贩卖「违规唱片」的店铺。&quot; /&gt;
+&lt;!-- Open Graph / Facebook --&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://imisscoverflow.xyz/2020/02/15/2020-02-15-if-you-sell-music-on-taobao/&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;如果你在淘宝卖进口唱片&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;二月底淘宝整治贩卖「违规唱片」的店铺。&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png&quot; /&gt;
+&lt;!-- Twitter --&gt;
+&lt;meta property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
+&lt;meta property=&quot;twitter:url&quot; content=&quot;http://imisscoverflow.xyz/2020/02/15/2020-02-15-if-you-sell-music-on-taobao/&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;如果你在淘宝卖进口唱片&quot; /&gt;
+&lt;meta property=&quot;twitter:description&quot; content=&quot;二月底淘宝整治贩卖「违规唱片」的店铺。&quot; /&gt;
+&lt;meta property=&quot;twitter:image&quot; content=&quot;https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png&quot; /&gt;
+&lt;/head&gt;
+
+&lt;p&gt;&lt;br /&gt;这周初我发现淘宝购物车里面几张「Tokyo Chuo-Line」的唱片失效了。简单说：TCL，东京中央线，是一支日本的爵士乐队，获得过金曲奖的提名。虽然在大陆的知名度相对不是很高，但音乐本身质量很不错。他们没有出品过黑胶格式的唱片，CD 也没有绝版的迹象。本人由于穷，在收藏唱片中会把更加容易退出流通或者更容易被炒起来的唱片放在最高的优先级。TCL 的唱片在这种取向下就只能往后稍稍。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/0082zybpgy1gbxa9epvklj30w40u01a2.jpg&quot; alt=&quot;IMG_0775&quot; style=&quot;zoom:33%;&quot; align=&quot;center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;!--excerpt--&gt;不过我是知道 TCL 为香港反送中运动发过声的（他们在 Facebook 上明确表态过），被盯上也不是没有可能。2019 年我们先后见证了李志和 my little airport 被封杀，多一个 TCL 也不会太令人惊讶。但我很快就得知这是淘宝针对进口唱片店铺的新一轮整风运动的成果，很多店被一锅端。指望审查者是听过/听说过 TCL 这样的小众艺术家后去精准打击是不现实的，淘宝大概是算准境外艺术家反贼比例会比较大，发挥了一刀切的传统艺能。(btw, 受众极广的反贼，比如李志，待遇是会更加出众的。不仅要下架，淘宝闲鱼豆瓣都要禁止相关关键词显示结果。)&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在淘宝上买碟，会知道很长一段时间以来，是看不见一些碟上架的，只好加微信。有幸目睹老板们这两天已经轮流出来骂街。以下精选内容截自微信朋友圈：&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/0082zybpgy1gbxazd73hej311x0u04qp.jpg&quot; alt=&quot;IMG_0733&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;「开年第一天，疫情当前惨烈，各行各业即将迎来隆冬，艺文管控也是空前禁收，看这趋势连给大家精神放松的空隙都准备不再留了。」说这话的門唱片主理人谢江川，已经苦苦支持了很多年。門唱片，和比如独音唱片，特别的地方在于他们有实体店，而且他们的实体空间作用不仅是给人一个买碟的地方，也是有乐队参与进来，构成一个更加完整的音乐空间。他们还会参与很多独立音乐人的唱片发行工作。对这些有实体店的店铺来说，网店被关，相当一部分的客流会损失，也许不致命。但你说不准哪一天会不会有人上门去店里翻箱倒柜，找茬说某人的某作品有害社会，把店封了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;爱音乐的人会觉得现实很荒谬，但现实就是这样不乐观。即使你看好风向及时下架被封杀的艺人，侥幸逃过一次次的围剿，你还是要吃饭吧？用爱发电是活不下去的。「台湾的售价里面，5%是版税，20-30%是零售商的利润，20%是生产成本，其余是唱片公司收益。」一张黑胶赚四五十，一张 CD 赚二三十。按照我们这个市场的受众数量计算，一家店一个月能赚多少不会是一个太乐观的数字。疫情进行时，我很喜欢的一家店「熔合音乐」今天下午五点发出了被迫清仓的信息：中古碟全新碟一律七折，以后不再做黑胶唱片。他们的实体店我没有去过，单就淘宝店来说。唱片展示、信息提供和快递的保护方面，熔合做得是最好的。他们也不会随便乱标价（骂的就是你，北京 Li-Pi 唱片）。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/0082zybpgy1gbxccrl362j30v20h8ju1.jpg&quot; alt=&quot;image-20200215200717414&quot; style=&quot;zoom:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;坦率地说，我因为有很糟糕的理财理念和消费习惯，是个没积蓄的学生，开不了学意味着没有生活费。但还是东拼西凑了几百块钱，带着兔死狐悲的心情买了几张，完全没有捡到便宜的快乐。追逐梦想很困难，对另一部分人来说则更加的难。中国大陆唱片业者大概就是险象环生，艰难求生，前有堵截，后有追兵，脚下的土壤也不够坚实。我鼓励大家在流媒体当道的时代或多或少继续消费实体音乐。因为这些唱片店，不管是线上还是线下，构成了我们这个神奇的国家音乐生态中看不见但很重要的一部分，他们应该活得比现在更好，让我们一起砸钱来投票。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>在大连玩</title>
+   <link href="http://localhost:4000/2019/12/28/trip-to-dalian/"/>
+   <updated>2019-12-28T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/12/28/trip-to-dalian</id>
+   <content type="html">&lt;head&gt;
+&lt;!-- Primary Meta Tags --&gt;
+&lt;title&gt;在大连玩 · I Miss Cover Flow&lt;/title&gt;
+&lt;meta name=&quot;title&quot; content=&quot;在大连玩 · I Miss Cover Flow&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;去得比较突然。期末考试结束的早，无事做。&quot; /&gt;
+&lt;!-- Open Graph / Facebook --&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;website&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;https://www.imisscoverflow.xyz/2019/12/28/trip-to-dalian/&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;在大连玩 · I Miss Cover Flow&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;去得比较突然。期末考试结束的早，无事做。&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;https://tvax3.sinaimg.cn/crop.0.0.736.736.180/6d4c710cly8fvce7os979j20kg0kgdgz.jpg&quot; /&gt;
+&lt;!-- Twitter --&gt;
+&lt;meta property=&quot;twitter:card&quot; content=&quot;summary_large_image&quot; /&gt;
+&lt;meta property=&quot;twitter:url&quot; content=&quot;https://www.imisscoverflow.xyz/2019/12/28/trip-to-dalian/&quot; /&gt;
+&lt;meta property=&quot;twitter:title&quot; content=&quot;在大连玩 · I Miss Cover Flow&quot; /&gt;
+&lt;meta property=&quot;twitter:description&quot; content=&quot;去得比较突然。期末考试结束的早，无事做。&quot; /&gt;
+&lt;meta property=&quot;twitter:image&quot; content=&quot;https://tvax3.sinaimg.cn/crop.0.0.736.736.180/6d4c710cly8fvce7os979j20kg0kgdgz.jpg&quot; /&gt;
+&lt;/head&gt;
+
+&lt;title&gt;在大连玩 · I Miss Cover Flow&lt;/title&gt;
+&lt;meta name=&quot;title&quot; content=&quot;在大连玩 · I Miss Cover Flow&quot; /&gt;
+
+&lt;meta name=&quot;description&quot; content=&quot;去得比较突然。期末考试结束的早，无事做。&quot; /&gt;
+
+&lt;p&gt;去得比较突然。期末考试结束的早，无事做。早就想去西安，打开飞猪划了一圈，发现去大连的机票含机建才 170。果断抛弃西安。一二年夏天去过一次大连，印象还挺好。冬天看海也好像很有诗意的样子。这是出发前的 tweet，可见当时也并非是全然自在的心情。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;zh&quot; dir=&quot;ltr&quot;&gt;过几天去大连看冬天的海。回来就要开始准备考研，上了大学第一次真正为前途惆怅。&lt;/p&gt;&amp;mdash; Kevin Gu (@kev1ngu) &lt;a href=&quot;https://twitter.com/kev1ngu/status/1207402440342900737?ref_src=twsrc%5Etfw&quot;&gt;December 18, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;!--excerpt--&gt;
+&lt;p&gt;&lt;br /&gt;大三了才第一次去徐州的机场。我觉得徐州还是有发展潜力。机场却造这么远，实在是匪夷所思的规划（这或许是去哪都比较便宜的一个原因）。徐州机场里面的商业氛围也很差。过完安检我和同行的朋友激情打赌说里面一定一家连锁快餐都没有，果然言中。机场的位置和环境还是挺重要的，而且就算城市本身发展地差一点，也可以把机场打造成一个对外展示的窗口。从大连机场打滴滴去市中心的住处也才二十多块钱的距离，里面该有的也都有。高下可见。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gacue23nyxj31400u04qu.jpg&quot; alt=&quot;IMG_4248&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（请欣赏 iPhone XS Max 的高光溢出）&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;住处是在 Airbnb 上找的，价格极其超值，比青旅还青旅。Airbnb 的政策是付钱之前都不能知道住处的具体位置。到了才发现找了个多么好的房子。窗户可以直接看得见中山广场，有很多小吃的天津街就在楼底下，离友好广场站也就一百米。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gadtgk6lwaj319z0u0npg.jpg&quot; alt=&quot;image-20191229192715652&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;飞机上休息过一会，觉得晚上也不是很冷，就出去找吃的。听说很有名的「水仙拉面」全天营业，走过去大概二十分钟。路上几乎没有人，车也很少。楼下马路对面有一家「泰和黑胶唱片」。大连有唱片店没有什么好意外的，隔得这么近就有一家，意外之喜。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gadtexr76ej319b0u0u15.jpg&quot; alt=&quot;KEV_1529&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;（友好广场这个球多年没见，再次看见猛地想起了自己很多年前来的时候的模样）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gadtlcip42j31400u0b2i.jpg&quot; alt=&quot;IMG_4865&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gadtm42lxlj31400u0qve.jpg&quot; alt=&quot;IMG_4865&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;大肉面 + 骨棒。￥18一碗面，肉极其的多。面的口感也很独特，完全不是日本拉面或者兰州拉面的感觉。从住处一路走来走久了本来有一点无聊，半夜来一碗吃完整个人都升天了。&lt;/p&gt;
+
+&lt;p&gt;第二天是难得的好天气。今年徐州不冷，大连据说也不是很冷。来的前两天下过雨下过雪，街上还能看见久不化的积雪。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gadtshq7fhj319b0u0he4.jpg&quot; alt=&quot;KEV_1546&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae4c8bahzj31900u0u0z.jpg&quot; alt=&quot;IMG_9516&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;之前提过的天津街，有很多好吃的。找了一家看上去比较靠谱的（裕泰回民饭店）。服务员太东北了，虽然全国人民都已经在东北文艺复兴的浪潮下接受了洗礼，真正听到「老弟整点这个不」还是不适应。东北菜份量见一次震撼一次，边上的大哥们聊天很带劲，而且不像某些东北城市的市民会那种讨人厌地咋呼。一下子就放开了，吃得很快乐。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae4chhnfwj31400u0kjt.jpg&quot; alt=&quot;IMG_7868&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;顺路拜访了午夜看见的「泰和黑胶唱片」，两个老板人都很热情。摆出来的黑胶大概量在一两百张左右，什么流派都有。有二手有全新。Taylor Swift 的「Lover」这种烂专辑被摆在最显眼的位置，仔细翻也能看到一些好货。定价就纯扯淡，二手的黑眼豆豆（老板会用东北话叫唤「豆豆」）《Monkey Business》卖三百五（FYI，熔合音乐这张全新卖 200 整），《Bohemian Rhapsody》的电影原声也卖三百五。多问了一嘴，他们并没有房租的负担。后来听 B-Side 的老板和我说这儿的主顾一般都是财大气粗的主儿，会一箱一箱地买，店主也是见买黑胶的多了才开始进黑胶的货。我显然不愿意做凯子，翻了十分钟没话聊了就走了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae5ru6zrpj31400u0npj.jpg&quot; alt=&quot;IMG_1507&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;过了一个路口就到中山广场。上次来中山广场的时候还没有地铁站。依然有人在养鸽子挣钱。占领时期建筑物绕着中山广场。这些建筑奠定了大连整个城市的建筑风格和气质，可能还是让大连看起来不那么东北的一个原因。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae5uh28x5j319b0u0b2i.jpg&quot; alt=&quot;KEV_1555&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae5u61lcdj319b0u0qvc.jpg&quot; alt=&quot;KEV_1556&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae5sxpwr0j31aw0u0qv7.jpg&quot; alt=&quot;KEV_1559&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;然后我去了俄罗斯风情街。&lt;br /&gt;
+我很难过。&lt;br /&gt;
+巨型后悔。&lt;/p&gt;
+
+&lt;p&gt;太你妈土了。俄罗斯巧克力、苏联帽子一条街。这不就东北版江南水乡古镇吗。嗨，谁还没见过谁啊。&lt;/p&gt;
+
+&lt;p&gt;还好边上的桥下有好景色：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae5wle8oyj30u019au16.jpg&quot; alt=&quot;KEV_1576&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;去星海公园看海。有几个地方我一直记得，偶尔还会想起。一个就是星海公园和星海广场之间这条有电车经过的路。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae5zwrvtnj31bb0u07wm.jpg&quot; alt=&quot;IMG_0414&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;下午四点左右到的星海公园，没指望有很多人。这种地标性的公园在冬天的工作日也就十个人左右。冬天是应该人烟稀少的。我本来也期望能在无人的海边发呆、放空，期冀用片刻表面的安静换来一点安宁。星海公园真的就满足了我，「潮汐」上永远听不到的悦耳海浪声，恰到好处的寒冷。有一点云朵，海水随着天色变换从淡淡的蓝变成深邃的蓝。裹得很严实的女生架着脚架在星海栈桥上长久地取景。宽阔无人的海边景色，看一眼应该能在记忆里美很久。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae69wpf56j319b0u0kju.jpg&quot; alt=&quot;KEV_1593&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6a3epewj30u019b1l7.jpg&quot; alt=&quot;KEV_1597&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6a5jqowj30u019bnpj.jpg&quot; alt=&quot;KEV_1610&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6b3pk38j30u019bnpm.jpg&quot; alt=&quot;KEV_1610&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6axvqxcj319a0u07wr.jpg&quot; alt=&quot;KEV_1702&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在海边，眺望或者久坐。一阵兴起会不顾寒冷抓着相机一阵猛拍。走的时候公园已经几乎没人了。星海湾大桥亮起来的时候感到莫名的放松。人造的景带来的放松，很奇怪。&lt;/p&gt;
+
+&lt;p&gt;既然是流水账还是要提一下晚饭吃的啥，凯德广场开口笑饺子。海胆水饺+焖子，一言难尽呐。&lt;/p&gt;
+
+&lt;p&gt;星海广场无话可说，夏天来吧，人多热闹。恒隆广场更加无话可说，尤其是苹果。我一直以为没有 Apple Store 在土这件事上可以打败无锡恒隆广场了，济南恒隆，you made it。&lt;/p&gt;
+
+&lt;p&gt;第三天在另一条垃圾风情街荒废了十分钟后有幸吃了一顿印象很深的饭。就在毛子风情街边上，新民饭店。桌子很少，去的时候赶上一桌空位。老板很佛，没有菜单，直接让我们上大众点评看中啥报菜名。如果要去最好直接给他打电话说好要吃什么菜。海肠捞饭这个是真滴快乐！！！鱼香虾仁和红油肉也是绝味。大半夜写到这又饿了呜呜呜。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6nufzygj30u0140hdx.jpg&quot; alt=&quot;IMG_9637&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6o4ie8mj30u0140e85.jpg&quot; alt=&quot;IMG_9638&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;大连港边上十五库。十五库营业出了问题，所有店都关了。里面也没人。撞运气找到一个能通观景台的门。景色显然不如昨晚所见，匆匆离去 again。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae6ssf1vtj319b0u07wr.jpg&quot; alt=&quot;KEV_1711&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;溜出来之后某人突然对星巴克冰淇淋系列起了执念，南辕北辙地去了一家比较远的星巴克。某人被当场教育半价券没法用，忍痛割爱点了一杯 CRM。是为记。&lt;/p&gt;
+
+&lt;p&gt;老虎滩的渔人码头。我不知道熊天平和齐秦唱的《愚人码头》和这里有没有什么关系。挺值得来的，海鸥盘旋往复在一处，堤岸上猫会跑来跑去。还能看见吵吵闹闹、突然出现突然消失的韩国旅行团和穿着潜水衣下水捞货的渔民。Tesla 车主朋友们，渔人码头有官方充电桩，可以放心前往。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae72cdmnzj31900u0hdz.jpg&quot; alt=&quot;IMG_9669&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae72f54x7j30u019b4qx.jpg&quot; alt=&quot;KEV_1764&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae72hcppqj319b0u0qva.jpg&quot; alt=&quot;KEV_1812&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae72o8f6yj30u019bhe2.jpg&quot; alt=&quot;KEV_1786&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae73ikatbj319b0u0u13.jpg&quot; alt=&quot;KEV_1786&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;晚上在地铁口离校门十米，门口两个商业综合体的海事大学吃的。「长生园饭店」，份量极其夸张，等菜时间比份量还夸张。火爆到七点钟到店还被迫在校园里晃荡了半个多小时。&lt;/p&gt;
+
+&lt;p&gt;虽然等得久，服务一点都不差，小姐姐还能开两句玩笑，而且菜本身很惊艳：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gae79b5i6tj31400u01l6.jpg&quot; alt=&quot;IMG_5389&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;由于无处可去了，剩下两天基本任务就是吃。睡到中午吃的品海楼现在想起来除了贵得肉痛已无任何感觉（大连鲍确实可以）。因为想吃塔可，晚上在财大附近吃的莫哈。因为看电视到凌晨三点，在天津路口品了川鲁拉面，我觉得不如水仙。所以走之前最后一顿又吃了水仙，但不知道为什么一样的东西不如到的那天晚上吃得快乐。&lt;/p&gt;
+
+&lt;p&gt;流水账就应该这样毫无预兆地结束，但还有关于 B-Side 的部分没提，那是我今年去过最好的唱片店，出于尊重，单独起一篇。&lt;/p&gt;
+
+&lt;p&gt;冬天在大连也可以很快乐，就这样。&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>People still prefer brigter photos, period.</title>
+   <link href="http://localhost:4000/2019/12/18/people-still-prefer-brigter-photos-period"/>
+   <updated>2019-12-18T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/12/18/people-still-prefer-brigter-photos-period.</id>
+   <content type="html">&lt;p&gt;MKBHD 年末傳統藝能：「智能手机相机盲测」。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1ga182q2nelj31md0u04qt.jpg&quot; alt=&quot;Screen Shot 2019-12-18 at 9.57.03 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;詳情如图。十六部手机参与了角逐。十六进八悬念不大（iPhone 咎由自取），半决赛的两组在投票中的情况很值得玩味 ( expected, as well)。&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gacpl1vcrnj31mf0u0e86.jpg&quot; alt=&quot;Screen Shot 2019-12-18 at 9.57.28 PM&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1gacq313iwnj31mb0u07wn.jpg&quot; alt=&quot;Screen Shot 2019-12-18 at 9.57.41 PM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2017 年的双摄没有让大众拥有欣赏「景深」的意识，2019 年的旗舰机也没能做到。除了景深，解析度和 HDR 在「更亮」面前也得靠边站。社会现状。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>回望 2010s</title>
+   <link href="http://localhost:4000/2019/12/15/a-gentle-looking-back-at-2010s/"/>
+   <updated>2019-12-15T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/12/15/a-gentle-looking-back-at-2010s</id>
+   <content type="html">&lt;p&gt;这周睡眠黑白颠倒，叫我在十秒钟内回答今天是周几都未必说得出来。却也不例外地对 2010s 的终结很敏感。同学之间开玩笑会说「你这是二十世纪十年代最后的 XXX」，此话术最近两天被滥用之频繁几乎可以与「平成最后的 XXX」抗衡。&lt;/p&gt;
+
+&lt;p&gt;有什么比一年将尽之时做总结更土的？回望过去的十年。&lt;/p&gt;
+
+&lt;p&gt;但这情绪很真切。英文里有单独的词指代十年。十年很自然地成为了一种时间尺度单位，这和十进制渗入到了每个人的生活有关吗？假如人人都用二进制计数，人们还是会情不自禁地回望每一个 1010 年（这显然是二进制中的十年）。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2010s 对我尤其特殊。&lt;!--excerpt--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;2010 年的时候，我是学生。2019 的时候，我还是个学生。不同的是 2010s 串起了我从小学走到大学的过程。观察世界的角度也在其间发生了巨大变化。&lt;/p&gt;
+
+&lt;p&gt;2010s 是割裂的。2010 年 GFW 建起来没几年，是传统的 VPN 还能奏效的远古洪荒时代。公知（非贬义）还能在刚刚开始代表舆情的微博上自由挥洒。「Web 2.0」古旧到让人生厌，但突然有一天就看见斯诺登（《永久记录》）和一众人士呼吁要捍卫「Open Web」了。时代在变化，世界在疯狂向右走。头几年虽然也有桎梏之感，却不曾想会像现在这样为深水将没顶而恐惧。民族主义、民粹主义、犬儒，2010 年那个小学生的我不会有可能去理解。好在彼时世界没有用这些主义的丑恶包裹我。它们真的来的时候，我已经不怕了。这让我感激 2010s，虽然向右急转已完成，但我却侥幸拥有在相对健康的环境中成长的机会，并从每天发生的事件中慢慢触及了世界的本质（或是我自以为是的本质？）。&lt;/p&gt;
+
+&lt;p&gt;从文化内容中获益颇多，我不愿意也没法评出 2010s 最重要唱片 / 电影 / 游戏 / 书籍 / 科技产品榜单。尤其是我作为一个中国大陆公民，看到很多重要、有价值的作品如今惨遭封杀，评选一个心目中的榜单只会徒增悲伤。如今技术的人文属性被公认重要（让我们意识到这一点的那个人也在 2010s 去世了，我很想他）。也是得益 / 受害于技术进步，文化产业在 2010s 发生了巨大且深刻的转变。从这一点可以理解为什么 The Verge 说 iPhone 4 当之无愧是它们评出的 2010s 百件科技产品之首。如果没有 iPhone 4，会不会就没有事实上的「移动互联网」，Netflix 就少了一个颠覆电影行业的机会？亲眼见证所有的一切发生很刺激。&lt;/p&gt;
+
+&lt;p&gt;学期将结束，利用考试间隔的空闲时间把我在 2010s 留存的照片、聊天记录、物件、作品和封存的信件草草看了一遍。在之前的岁月伸出手想要抓住更之前的时光，是很徒劳，也是因为不知道故事还在继续发生着。2010s 真的要结束了，让我最后温柔看一眼。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nintendo Switch Lite 宝可梦「劍盾」限定版本開箱</title>
+   <link href="http://localhost:4000/2019/11/08/Nintendo-Switch-Lite-Limited-Edition-Unbox/"/>
+   <updated>2019-11-08T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/11/08/Nintendo-Switch-Lite-Limited-Edition-Unbox</id>
+   <content type="html">&lt;p&gt;某天和同學一同前去吃燒烤，無話的時候無意點開京東，衝動消費了一台劍盾限定版本的 Switch Lite。&lt;br /&gt;Switch Lite 出來的時候其實沒有太關注。因為即使手上有一部滿載第一方大作的 Switch OG，也一直在吃灰。&lt;br /&gt;&lt;br /&gt;但還是買了，衝動消費真的害人！廢話少說，先看東西。&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8ql83xriej319b0u04qx.jpg&quot; alt=&quot;KEV_1494&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlmos397j319a0u0b2i.jpg&quot; alt=&quot;KEV_1495&quot; /&gt;&lt;br /&gt;包裝盒體積比全尺寸版本小了兩到三倍，拿到快遞盒子都不敢相信這裡面是一隻 Switch。（畢竟上次在京都幫人帶 Switch 很是為巨大的包裝盒頭疼）&lt;br /&gt;其實是因為閹割掉 TV-out &amp;amp; Joy-Con 一體化設計之後少了很多配件。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlarpqr0j319b0u0x6z.jpg&quot; alt=&quot;KEV_1497&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlb5qfa3j319b0u07wr.jpg&quot; alt=&quot;KEV_1499&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlp0so0wj319b0u01l5.jpg&quot; alt=&quot;KEV_1500&quot; /&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlplvexhj319b0u04qw.jpg&quot; alt=&quot;KEV_1503&quot; /&gt;&lt;br /&gt;一開始就打算用手上多餘的一隻小米 45W PD 適配器來充電，這樣一來港版和日版的唯一硬體區別似乎就不存在了。&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlpzh6qoj319b0u07wq.jpg&quot; alt=&quot;KEV_1504&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlqd1as4j319a0u0u14.jpg&quot; alt=&quot;KEV_1508&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlqsay7gj319b0u04qx.jpg&quot; alt=&quot;KEV_1513&quot; /&gt;&lt;br /&gt; &lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlrb828cj319b0u0he2.jpg&quot; alt=&quot;KEV_1514&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlrm3a14j319b0u0he2.jpg&quot; alt=&quot;IMG_6815&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;磨砂質感的外殼，一體式的機身，更小的尺寸和相對更高的 PPI，加上鍵程更長的 Joy-Con 按鍵。這都是從 NS 轉換到 Lite 五分鐘之內能感受到的不同。任天堂的用戶系統非常難用，遷移的時候幾乎就是赤裸裸地噁心用戶。可能只是一點點的不同，但 Lite 確實讓玩家立刻就能把它當成一款純粹的掌機來對待。如果 NSLite 能讓我這樣不太會想起抽時間給遊戲的人能沈迷於中，那就算成功了。&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g8qlw5cz9qj31400u0hdz.jpg&quot; alt=&quot;IMG_6815&quot; /&gt;&lt;br /&gt;（是的，我貼膜貼出氣泡了…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>120-FPS Fantasy of Ang Lee</title>
+   <link href="http://localhost:4000/2019/10/24/120-FPS-fantasy-of-Ang-Lee/"/>
+   <updated>2019-10-24T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/10/24/120-FPS-fantasy-of-Ang-Lee</id>
+   <content type="html">&lt;p&gt;It was 2016 when &lt;em&gt;Billy Lynn’s Long Halftime Walk&lt;/em&gt; was screened around the globe. And there were merely 5 screens with capabilities to run the film in its very highest standard available: 120 FPS, 4K, 3D.&lt;br /&gt;&lt;br /&gt;News spread that it was a huge pushing-forward of technology of film industry and human imagination of images. You just can’t get away from those words of praise easily being an 18-year-old kid. But I was in my high school when the film got premiered. It is a boarding school so I would not be able, of course, to see the film even shown in a lower frame rate version in cinema. What did I do? I bought an original book from which the film is adapted in a tiny inside-campus bookstore and finished it in a maths lesson.&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;The book was great as I previously expected. Later I watched the pirated film(24 FPS), not impressed at all. Given that advanced technology becomes the main selling-point of a film, what if somebody just has his own playback on a tiny, shitty phone with poor color mangement, trying to entertain himself/herself? When I was younger than that I can even enjoy myself with a screen as small as, say, 2.5 inches playing action films, covered in my quilt, in terribly low light. Such experience dropped some shadow to me on high FPS. I still take it as one of biggest obstacles that Ang Lee shall face. &lt;br /&gt;&lt;br /&gt;I’m not going radical here with words like “storytelling is most important and you can make a good film even with good storytelling only”. It’s definitely good to have technology advancing. It’s even better to participate in this revolution. Great directors and writers can tailor a film using 120 FPS as a great tool in illustrating a vivid film. Maybe Ang Lee just leans towards technology-side way too much in his very fisrt attempt rather than making all aspects of films come together.&lt;br /&gt;&lt;br /&gt;But It’s late 2019. What a shame that not a single director has tried 120 FPS during these 3 years. Even horizons are not well expanded. There’s still good news. Screens able to run high FPS are getting more(well, you can’t use the word “booming” yet), you can see more cinemas providing 60 FPS if they don’t offer 120 FPS option. 4K HDR is not a distant word anymore. The first attempt also, in a way, laid foundation for another go. Last but not least, Ang Lee still got his ambitions and willingness to push forward.&lt;br /&gt;&lt;br /&gt;Taking all those into consideration, I was never happier when I heard about &lt;em&gt;Gemini Man&lt;/em&gt;. Same recipe: 120FPS, 4K, 3D. New ingredient: Will Smith! As I observed that I can still go to a random cinema watching a 60 FPS version rather than bearing with the 24 FPS + 2D version even I am located in Xuzhou, a second-line city of China. &lt;br /&gt;&lt;br /&gt;Shout out to ANG LEE! &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;So I pre-ordered a ticket, carefully thought about where I should be seated and excitedly headed for the cinema early. Lights off. Thrill gone. A playback error was experienced and the film can only carrying on in 2D version. Surely it’s a pity but it reminds me of the experience of watching &lt;em&gt;Long Halftime Walk&lt;/em&gt; in 2016 and it raised a unskippable question: Is it capable of standing out as a great film even without all those fancy tech? Is the younger-Will-Smith-VFX stuff still look great in 24 FPS(allow future films shot in 24 FPS having ground to imporve)? Answer is positive, personally.&lt;br /&gt;Later on cinema staff promised me a better experience that they would finish upgrading playback equipment in next days. So I watched it last night again, in 60 FPS + 3D.&lt;br /&gt;&lt;br /&gt;I must say it looks like a whole new film. It’s that never-experienced-never-known kind of experience and astonishment. I wow-ed like an idiot multiple times during playing. I thrilled. I couldn’t help giving my compliments to my roommate sitting next to me(I know it’s impolite behaviour, trust me I know it). The chasing bridge looks like somebody is streaming GTA in world’s biggest screen. High FPS cameras brings high-speed shots to next level like never before. They made me feel dizzy sometimes but I still feel extreme excitement! Contrast of attraction between action shots and simple talking shots is more obvious in 60 FPS than 24 FPS. No doubt it will make some bridges more exciting and some others dull in 120 FPS.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;3 years ago, the night &lt;em&gt;Long Halftime Walk&lt;/em&gt; premiered, huge discussion, excitement and doubt lit up film circle. Finally I can share what was going on in their minds then. &lt;br /&gt;&lt;br /&gt;Still, we haven’t settled down arguments like “Why 24 FPS looks more realistic than higher FPS films”, “Is high FPS’s resemblance to game ruining films’ texture”, and of course “Will high FPS make sense in other film genres”. But one thing is certain: unlike Wo He Wo De Zu Guo, there won’t be that many people seeing this film. Like I said, if you don’t see it you won’t know if you’ll like it or hate it. The new tech won’t receive enough acceptance to keep on advancing. So far &lt;em&gt;Gemini Man&lt;/em&gt; hasn’t received a high reputation. You can’t blame all its “failure” on 120/60 FPS. But my biggest fear comes from Ang Lee, such a calm and mild man, facing a 50/50 chance whether he will end up in a lonely dead-end road, would insist his vision of future films. His response still seems positive on his choice, but with a little bit more confuse. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Gemini Man&lt;/em&gt; in &lt;a href=&quot;https://www.imdb.com/title/tt1025100/&quot;&gt;IMDb&lt;/a&gt;, &lt;a href=&quot;https://movie.douban.com/subject/3097572/&quot;&gt;豆瓣电影&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Apple Arcade Trial</title>
+   <link href="http://localhost:4000/2019/10/06/apple-arcade-trial/"/>
+   <updated>2019-10-06T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/10/06/apple-arcade-trial</id>
+   <content type="html">&lt;p&gt;Apple Newsroom 如是宣传自家的订阅制游戏服务 Apple Arcade：&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;Apple Arcade invites you to play something extraordinary. Groundbreaking Game Subscription Service Launches on the App Store for $4.99 per Month on September 19&lt;/p&gt;
+&lt;p&gt;财报里「服务」营收占比见长，不代表苹果已经完成了在服务类目的工作——甚至还没有完全结束布局。算上十一月即将上线的 Apple TV+，苹果今年在订阅制服务上投入了巨大的精力。豪华阵容配劲爆定价，加上巨量的设备基数。苹果坚定了信念要把别人碗里的饭抢来吃一口。我在九月十九日 Arcade 在 iOS 13 beta 系统上线的第一刻（让大力宣传的服务抢跑配套的正式版 iOS，这也是一个诡异的操作）开始了为期一月的免费试用（正常价格为 $4.99 / 月）。试用期业已过半，是时候谈谈了。&lt;br /&gt;现实情况是：不管是音乐串流、自制剧集还是游戏，想再次复现 iTunes Store 世纪初垄断市场的局面，几乎已不可能。苹果背靠与唱片公司的长期合作关系和自身「音乐 DNA」自信打造出来的 Apple Music 也没能盖过 Spotify 的势头。主打的一次付费无内购畅玩模式当然很好，iOS/iPadOS 13 对手柄的支持也聪明，可你随便问一个玩家为什么要买某主机，答案一定是某某游戏。作为游戏界的新人，面对「御三家」的地位、硬核玩家的不屑和自己在题材上的偏执，Apple Arcade 想要证明自己非常困难。&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;我多希望这时候能话锋一转，开始吹 Arcade 的惊艳游玩阵容。然而 Arcade 的确没有什么拿的出手的内容，这直接导致了它从第一天起就多半差评。梅林在 Twitter 上讥讽它是 4399 HD Remastered 多合一。更有人质疑加州人在 N64 世代是不是没搞明白什么样的体验能配叫做「街机」。&lt;br /&gt;&lt;br /&gt;当然是一定要自己去试试的。况且画面精美、制作精良还本地化完整的游戏，就算内容差也不可能差到不足以打发时间吧。政治课上我迅速浏览了几篇什么值得玩的推介文章之后下载了几款游戏。macOS Catalina 短时间内不会去升级，体验的设备只有 iPhone, iPad 和 Apple TV。叮！体验割裂感从这里就开始了，在 Apple TV 上，Arcade 的入口不在 App Store 而是一个单独的 Arcade app 里。而 iOS/iPadOS 上 Arcade 寄生于 App Store 的一个栏目里。嗯……&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g7pnjurbfzj30u014rdlb.jpg&quot; alt=&quot;IMG_1867&quot; /&gt;&lt;br /&gt;在对约十款游戏进行平均约十分钟的试玩之后，我意识到了自己的幼稚。4399 们起码还堪玩，像「Speed Demons」这种可能还不如 S60 时代 gameloft 的游戏。「Overland」几乎是为了废土而废土。「Skate City」无聊程度可以和 iPad 初代刚上市时 App Store 内的游戏一较高下。玩过塞尔达的人应该也不会想去玩一个精致的山寨版本（「Oceanhorn 2」）。政治课上我终于不敌睡意，选择了更有意思的睡觉。&lt;br /&gt;也不完全都是垃圾。「Sayonara Wild Hearts」画风美极了，音乐节奏也很有代入感。出品过纪念碑谷的工作室 ustwo 打造的「Assemble」有好的故事。「Mini Metro」工作室出品的「Mini Motorways」也是同类游戏中出类拔萃者。可 Sayonara 并非独占，剩下三家大厂的主机上均可游玩。Assemble 和 Mini Motorways 虽然题材不同，问题却有共性：譬如 Assemble 和纪念碑谷都很好，但如果「好」得方向和程度都差不多，为什么我要单独开一个 4.99 美元每月的服务来玩？想要玩好游戏的人不会在乎是每月 4.99 还是 9.99（PSN），只想借游戏打发时间的人面前有腾讯游戏倾情提供的一众选择。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;九月十一日苹果发布会进行时我发了这样一条 Tweet：「Apple Arcade 如期上线。iPad Pro 如今有了 USB-C（扩展更大尺寸的屏幕），有了官方的 PS4/XBOX 手柄支持。那么，离一台真正的游戏主机还有多远？」Arcade 支持全平台，让自家设备普遍遭遇的困境变得更明显。 Arcade 或许能在 iPhone 上获得一定成功，到了 iPad Pro 和 Apple TV 这个尺度人们就会开始想玩一些能见血的游戏了。Mac 的现状就更让人疯狂，这时候带着一种推出 Arcade 就可以解决「Mac 不适合玩游戏」问题的心态，应该会死得很惨。&lt;/p&gt;
+
+&lt;p&gt;所以我退订了 Apple Arcade，在试用期结束之前。并祈祷 Apple TV+ 第一批剧不要太难看。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>深深一湾深圳湾，有飞机场也飞不过。</title>
+   <link href="http://localhost:4000/2019/09/20/the-strait-you-cannot-cross-even-with-an-airport/"/>
+   <updated>2019-09-20T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/09/20/the-strait-you-cannot-cross-even-with-an-airport</id>
+   <content type="html">&lt;p class=&quot;message&quot;&gt;「我们永久地失去mla。失去左翼青年穷苦末路的小清新爱情，失去社会底层怅然若失的忧伤嫖客。失去九龙公园的游泳池和土瓜湾情歌。失去中学的暑假，失去牛头角青年，麦记朱古力醉酒的一夜。最终，我们将失去所有的城市诗人和虚无缥缈的都市传说。」&lt;br /&gt; 
+「评论里部分人大概也不知道林阿P说过“资本主义收皮”，只会因一个他们无法理解的行为去高举口号去打倒。算了，我们都有光明的未来。」&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;以上兩條均為香港獨立（此處「獨立」當然指的是 indie 而非政治上的獨立）樂隊 my little airport 九月十九日凌晨在大陸被封禁後，我與新浪微博所見。按照慣常的操作此處我應該把 credit 給到。然而此刻去索驥，言論卻苟且到在私下輾轉，原 po 像從未出現過，所剩下的出聲孔裡透出無法理解的失望與無可奈何的憤怒。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我其實很驚訝到現在我們還在討論空間裡質疑自己和他人，藝術和政治到底應不應該分開。藝術在政治的社會中存在，藝術家也是人（a.k.a 社會動物）。以藝術為工具反思社會 &amp;amp; 表達政治傾向，歷來已久。李志政治訴求的表達被噤聲值得讚頌，Bob Dylan 反思社會現狀的作品（如「Workingman‘s Blues #2」）能被認定為偉大的音樂，而 mla 部分作品中流露出來的傾向就會引發這種驚慌失措地、根本性的質疑？雙重標準玩得確實很有一手。对社会的反思，或者说表達的傾向與「民意」相同則稱其具有「藝術家的良心」，相左就戴上一個惹眼的帽子並當眾遊街，不可笑吗？藝術家不是你家的電視遙控器。&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;相比於那些極力掩蓋國歌事件的聽眾，我願意大大方方地承認。左派青年林阿 p 不滿現狀，發展出這種對舊日的依戀情節。但我們也都聽他唱過「我等在街上籌旗/呼喊資本主義收皮」（收皮在粵語指閉嘴）。左翼青年誰都要屌，誰都逃不過用最難的姿勢被左翼青年屌。我甚至懷疑如果香港重回英國治下，林阿 p 會是第一個開始搖五星紅旗的人。港獨是跑不了的，港獨又是太好用的帽子。在這個上街遊行等於港獨的詭異時刻，港獨面前人人平等，誰管你是左翼青年的牢騷還是衝著分裂國家去，所有自由主義精神都可以收皮。不光要叫你收皮，還要把你大變活人。Jijiao Zhang 八月初的时候问我怎么看香港的事。我说，那我写一篇 blog 吧。幾十天一字未动，一是因为事件在不断发展，意想不到的事情在不断出现。但 mla 的事最令我沮喪。沮喪的時候可以聽 mla，排遣沮喪的歌者被封殺帶來的沮喪，又要讓我去聽誰才能釋懷？在這個沮喪的閉環裡，我想不通，我相信那些貼大字報的人們也沒想過去想。下架，刪數字記錄，禁止實體拷貝流通。流媒體平台和淘寶可以在憤怒的樂迷前頂上十分鐘的鍋，這套幹練又流暢的組合拳誰予誰之手你我心知肚明。最终，我们失去「所有的城市诗人和虚无缥缈的都市传说」。但作為時代巨嬰的我們當然是不可能也沒有資格感受這些情緒的。更重要的，不要你覺得即便藝術家宣揚激進政見仍然可以保有選擇性傾聽的權利，我要我覺得港獨苗子就該被連根拔起。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;想到群體之間的分裂近於不可彌合，感嘆深深的深圳灣我們再也無法飛過。以後若去到九龍公園游泳池，不止弔唁倒閉的 HMV Square，也滿目都是你的歌聲。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Designed by Apple in California, An Unbox</title>
+   <link href="http://localhost:4000/2019/08/30/Designed-by-Apple-in-California/"/>
+   <updated>2019-08-30T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/08/30/Designed-by-Apple-in-California</id>
+   <content type="html">&lt;p&gt;去年還不知前年，托朋友在香港買了英文版的小號「Designed by Apple in California」。香港順豐寄到大陸家中，一直沒捨得拆開。
+今天沒忍住，拆了，一睹尊榮。&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;《Designed by Apple in California》透過 450 張我們的產品及其製造過程的相片，記錄了 Apple 20 年來的設計。這段視覺歷史，從 iMac 跨越至 Apple Pencil，闡述了創新材料及技術，讓每個細節真確呈現。這本精裝書冊，選用了經特別研磨的德國紙張，配上鍍啞銀邊，以八色分色及低鬼影油墨印製，編製歷時八年多，細意精心之處，與當中展示的產品同出一轍。Apple 一貫在設計、工程及製造上的一絲不苟，我們以此書致敬，亦以此書為證。&lt;/p&gt;
+
+&lt;h3 id=&quot;the-unbox&quot;&gt;&lt;em&gt;The Unbox&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqk55vslj319a0u0dm6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;打開順豐的快遞包裹，就可以看見 Apple 的白色紙盒包裝。這居然不是最後一層包裝。&lt;img src=&quot;/Users/kev1ngu/Downloads/Designed by Apple in California/Lightroom catalog/轉存/KEV_1460.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqqbhnf7j319b0u0he2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這張質感與印刷精細度都極為優秀的紙上面印滿了 Apple 的 iconic design。真是極好的品質，不想讓它有任何破損，小心翼翼的放到一邊。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqpavpctj319b0u0npm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一層層的精緻包裝會在無形間提升對書本體的期待，拆 Designed by Apple 能獲得比 unbox 任何一件 Apple 產品都大的儀式感。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr2w8tbvj319b0u0x6v.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr4zojisj319b0u0u14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dedicated-to-steve-jobs&quot;&gt;&lt;em&gt;Dedicated to Steve Jobs&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr8r6o6xj31400u0qva.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我打心裡知道我不可能忍住不拆，但我完全沒有料到 Jony Ive 會先行一步離開 Apple。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hra5ogewj31400u07wo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrexhbdpj319a0u0e86.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrf4vv0kj30u00u0x6s.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrfe9tj6j31400u0e87.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hsyapkexj319b0u0npl.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;coda&quot;&gt;&lt;em&gt;Coda&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;HK$1,588，對於一本畫冊，尤其是這種品質的畫冊來說應該不算貴。但對於當時的我來說完全不是一個小數目。此書現已售罄，謝謝一咬牙購入它的自己，謝謝促成我購得此書的朋友，謝謝 Apple。&lt;/p&gt;
+
+&lt;p&gt;什麼是設計？為什麼設計？&lt;/p&gt;
+
+&lt;p&gt;This is the answer.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fear of fear</title>
+   <link href="http://localhost:4000/2019/06/16/Fear-of-fear/"/>
+   <updated>2019-06-16T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/06/16/Fear-of-fear</id>
+   <content type="html">&lt;p&gt;即便是在相对可以去自由地纪念和反思的 Twitter 上，群体对公众事件的记忆力也短的匪夷所思。还记得去年的这个时候我们在讨论的是什么吗？&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;我们这些匿名者敬佩岳同学实名上书的勇气，更钦慕她临事不惧的正气，而有司诸公你们究竟在怕什么？&lt;/p&gt;
+
+&lt;p&gt;根治记忆速朽的方式就是加快事情重演的频率，直至不再需要去记忆。此事与五月后接踵发生的事件，本质上都是同一件事情。让李志、好奇心日报、许子东们迅速获得与黄耀明、陈升一样的境遇。&lt;/p&gt;
+
+&lt;p&gt;几乎是和外面的空气一样，这儿快闷得让人窒息了。&lt;/p&gt;
+
+&lt;p&gt;怎么可能会忍住不去和身边人提起这一切。回应大多相同，「那你有什么办法解决吗？」&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;驽钝如我，言辞激烈面前往往哑口无言。回过神却能给出很坚定的答案：当然不是去玩命送死，解决办法就是不去阴阳怪气地问「有什么解决办法吗？」无可奈何的又要开始屌犬儒（这是一个旷日持久并没有正向回馈的过程）。犬儒是公共语境日复一日被污染、思维方式潜移默化被限定之后的产物，犬儒者在成为墙上的另一块砖的时候，往往还摆出一副伪善的面目，不仅让自己显得精于世故，同时也造作出受害者一般的无奈。而我不愿做帮凶，也必定会屌犬儒。&lt;/p&gt;
+
+&lt;p&gt;犬儒者另有一特征：喜欢假惺惺的假设一切与己无关，幻想可以高高挂起。如此我便可以向各位介绍对抗犬儒最浅显的好处就是可以保持清醒。我也曾设想一个让我可以不去关心一切政治生活或其他琐事的社会，终于意识到这是最终极的乌托邦。在不可预见的未来里乌托邦也许能实现，然而此刻我们离国际平均水平都尚有数光年的距离，放心，万事万物都会与你形成千丝万缕的联系。这是常识。&lt;/p&gt;
+
+&lt;p&gt;Fear of fear always exists, and why don’t you stand up to it as a person?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>虽然我也曾在江苏卷语文考场上揪心过...</title>
+   <link href="http://localhost:4000/2019/06/07/%E8%99%BD%E7%84%B6%E6%88%91%E4%B9%9F%E5%9C%A8%E6%B1%9F%E8%8B%8F%E5%8D%B7%E8%AF%AD%E6%96%87%E8%80%83%E5%9C%BA%E4%B8%8A%E6%8F%AA%E5%BF%83%E8%BF%87/"/>
+   <updated>2019-06-07T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/06/07/虽然我也在江苏卷语文考场上揪心过</id>
+   <content type="html">&lt;p&gt;会很难记起彼时彼刻的心绪，很难记得到底是为了什么要去从二十个字题目构筑的一方世界里去训练自己把读完题后发散到各处的思维收拢聚合，找到一个切口，反反复复的磨八百个方块字，把立意立起来，在自成一派的条理中自圆其说，尝试说的有新意又不为赋新词强说愁。两年过去了，真的很难再记起。&lt;/p&gt;
+
+&lt;p&gt;江苏卷语文第二十题背后的事实是：作文不是和老师学的，作文也不是遵谁人之嘱就可以永远灵光乍现的。作文是表达，是相由心生。永远感谢我从小到大的语文老师（几乎都是我的班主任），让我的「心」不至于很好看，起码有分辨美丑的能力。&lt;/p&gt;
+
+&lt;p&gt;江苏卷合流在即，观中原诸侯，可知「作文」已矣哉。谓之作文？谓之作伪。吾不愿作伪，今亦不能作文。至此三百三十三字，不复往日荣光，佶屈聱牙，不能谓之文。&lt;/p&gt;
+
+&lt;p&gt;活着的时候，别人的人格在社会学意义上跪着。要死了，才看见别人跪着，仿佛在此间也未曾活过。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;风气日紧&lt;/em&gt;，我终于想起，我当时想的是何物。「能在此自由挥洒，不拘一格，终是一幸事」
+&lt;!--excerpt--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>#闲话三两句#</title>
+   <link href="http://localhost:4000/2019/05/27/%E9%97%B2%E8%AF%9D%E4%B8%89%E4%B8%A4%E5%8F%A5/"/>
+   <updated>2019-05-27T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/05/27/#闲话三两句#</id>
+   <content type="html">&lt;p&gt;用 Jekyll 来生成这篇网站的 Post，不可避免的要用到 Markdown。Markdown 从 John Gruber &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;提出&lt;/a&gt;到现在有好多种 style，&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GFM&lt;/a&gt;(GitHub Flavored Markdown) 之类的，越发的感觉「你 Markdown 用哪种标准」很有「你缩进用 Space 还是 Tab」的感觉。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;大橋トリオ (Ohashi Trio) 的&lt;a href=&quot;http://music.163.com/song?id=22781806&amp;amp;userid=125565879&quot;&gt;「RAINYDAY」&lt;/a&gt;，从去年上海看他的 livehouse 之前到现在一直都没有人上传歌词，抽空自己做了。即使这是一首不包含任何敏感内容的100%网易云的审核速度慢的诡异（原文歌词审核了 emmm 也就四天吧！）。且根本没有提供第一方工具去打 lrc 歌词的时间点，我用的是&lt;a href=&quot;[https://lrc-maker.github.io](https://lrc-maker.github.io/)&quot;&gt;歌词滚动姬&lt;/a&gt;。意外的顺手。看着自己做的歌词出现在 LyricsX 上还挺奇怪的感觉。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;任正非的访谈&lt;a href=&quot;https://www.tmtpost.com/3958628.html&quot;&gt;实录&lt;/a&gt;，一反余承东和华为消费类产品部门给人的不良印象。非常有大将之风，完全把华为的发展历程和与供应链、竞争对手的关系放在全球化的语境中讨论。强调对民粹话术反对的时候给自家技术树的完整发展给出蓝图。我不记得是哪个媒体的标题给他的回答贴上了类似当代公知的 tag，还挺酷。王跃琨离开 FView 后的第一支评测也出炉了，主角是华为 P30 Pro，特别棒。 另外给彭总道个歉…&lt;a href=&quot;https://www.youtube.com/watch?v=EH3B38cZjJE&amp;amp;feature=youtu.be&quot;&gt;YouTube 4K:&lt;/a&gt;
+(偏个题，大家有没有经此一役 YouTube 上科技 KOL 们终于不把 Huawei 发成 Wah-wei 的音了，有几个甚至声调还挺地道的…&lt;/p&gt;
+
+&lt;p&gt;//
+&lt;!--excerpt--&gt;
+WWDC 2019 还有八天开幕。希望 iOS 能给大尺寸和 OLED 屏的 iPhone 优化一下，iPad 文件管理开放一点，顺手再提高一下自家服务的稳定性。今天出恭时手机不在身边，Series 1 的表突然自己重启了，重启到一半还亮着白苹果的时候开始电话振动，急死人。watchOS 6 给劲一点绝对换 new-design 的手表了。macOS 从下一代起也要取消对 32-bit 的支持。甚至 Mojave 就开始抛弃 OpenCL/OpenGL。最惨不过 CS:GO for Mac 玩家，不仅 Steam 还没更新 64 位应用，游戏本身还是用 OpenGL 写的，大写的惨。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;中國的電子音樂、饒舌都上過綜藝節目了。終於爱奇艺的自制综艺「乐队的夏天」也上了。北方公园的&lt;a href=&quot;https://www.weibo.com/ttarticle/p/show?id=2309404375958353223833#_0&quot;&gt;长文&lt;/a&gt;写的非常好，我就不鹦鹉学舌了。三十一只乐队的阵容几乎就是我高中时期 iPod 里的神仙们出来互相打架。说打架可能不恰当，不像别的综艺节目的选手，这些老炮儿们其实都互相认识，也就等于换个地方凑一块儿玩。第一集下来，盘尼西林倒是黑转路人，也被宇宙人的贝斯手方Q实力圈粉。气氛很好，比看什么即刻电音舒服多了。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;将近一年之后把狂野飙车 9 重新下载了回来，破烂游戏挂了全局梯子依然网络表现感人。Max 功耗瞬间跑满那叫一个热。以前 touch 4 什么的一路烫过来也不会有什么感觉，今年这手机不知道为什么特别让我对热量有感知。Max 的信号也的确是不行。一个手机信号不好，一个电脑键盘不好，这都什么事？苹果偏偏把这两样凑齐活了，我很受伤…&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;用一个 Tampermonkey 的插件刷超星的网课，还以为自己掌握了核心科技，彻底翻车…偷懒还是不得行啊。结果就是要多蹉跎一学期的时间来弥补此次过失。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;想给 APS-C 的 Nikon D7000 装个 MB-D11 手柄，四舍五入约等于换了个全幅机(大雾&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;找了一圈市面上键位数量割舍合理、蓝牙连线、USB-C 充电且有附送 Mac 键帽/无刻印的机械键盘真的不多，其中价格合适的也只有 iQunix F96(如果有更好的选择欢迎私信我救救孩子的花呗)。勤写博客的话，可以逼迫自己早日痛下决心换个机械键盘，或者干脆把 MacBook Pro 2018 的键盘干坏换个新的。结果都还挺好的。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;彩虹的&lt;a href=&quot;https://open.spotify.com/album/2O1ie99FOKQkg1zeuvBBwZ?si=yo85QXDLR4u0llJVtAgtSw&quot;&gt;白马村游记&lt;/a&gt;。一共七首加一首 bonus，之前只泛泛的听过「七之一：榕樹」。昨天晚上對著歌詞聽了一遍，几欲落泪，听到「七之七：村口迎佛」的時候完全忍不住哭了出來。金承志说：「我要写一个作品，让听众听完了，会心痛到说不出话来。」第一遍没看歌词就能感受到的弥漫出来的民国气息，到后面几首的美好气氛，最后村口迎佛的最后完全的感情爆发。那是一种包裹在力量中卻穿越时空而來的虛無感和夢醒的空虛。我的乐理知识很差，依然能感受到白马村游记单首作品结构的好，整张专辑的叙事结构更是出色。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;六月院线好像还行。真正期待的电影都是动画，哆啦A梦和千与千寻。好像龙猫内地重映也就是几个月前的事情，有种文艺繁荣的错觉。&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;連睡了十四個小時，本來就有頸椎病，這下更加難收。於是把電腦用一種 homebrew 的方式墊高了。（寫這條只是為了試一下圖床怎麼樣了
+&lt;img src=&quot;http://wx1.sinaimg.cn/large/6d4c710cly1g3g9px7he8j218z0u0kjl.jpg&quot; alt=&quot;macbook elevated&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Formula One：飆速求生</title>
+   <link href="http://localhost:4000/2019/05/25/formula-one-drive-to-suivive/"/>
+   <updated>2019-05-25T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/05/25/formula-one-drive-to-suivive</id>
+   <content type="html">&lt;p&gt;偶尔搜到 Netflix 的原创剧集&lt;a href=&quot;https://www.netflix.com/title/80204890&quot;&gt;「Formula One：飆速求生」&lt;/a&gt;，以 2018 赛季一级方程式大奖赛为素材。第一集开了个头，立刻知道它的好，却被种种琐事拖住时间，搁置在片单列表一隅。不仅剧没时间看，甚至 Netflix 升级了 UHD 的 Plan 都没有机会打开看几眼主页。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wx2.sinaimg.cn/large/6d4c710cly1g3cxaxrapkj22k40u0ax6.jpg&quot; alt=&quot;netflix profile&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;今天却饶有兴味地端坐电脑前看完了一季的全部十集，全程没怎么按快进。中途按捺不住 Steam 下载了 F1 2017 跑了两圈回来继续看剩下的剧集。看完感叹我非常信赖的 Netflix 推荐算法竟然没有猜出我 100% 是此剧的目标观众，真是好险！还好，除了算法还有缘分能决定我看到什么剧。&lt;/p&gt;
+
+&lt;p&gt;说回 F1 赛事本身，好像 CCTV 5 近年很少转播 F1 赛事了。一直说着要去看中国大奖赛(我极限运动的确很讨厌上赛道的大直道无脑互尬)但也没真的动身前往观战。F1当之无愧我国群众基础最薄弱的运动之一。自诩赛车爱好者(yes i’m a petrolhead)如我，甚至没意识到 F1 2018 赛季把 logo 都改了。&lt;/p&gt;
+
+&lt;p&gt;即便缺席了如此久的赛事，赛季仍然一年一年的过，我听说 NBA 这两年观赏性下降。仅仅是看了几段大奖赛片段，就能断定，F1 散发的光芒，和幼年时电视机里的狂奔相比，似乎并没有任何暗淡。
+&lt;!--excerpt--&gt;
+依旧有新秀表现夺目，车手流动，政治丑闻，资金断链。棋逢对手或是队内互尬，噩耗连连或是命运垂青。F1 赛场上的故事永远有相同的体裁，主角如跑马灯变幻。西班牙传奇车手阿隆索迎来最后一场告别赛事。舒马赫早已离开赛场，病情牵动所有见证过他传奇的人。&lt;/p&gt;
+
+&lt;p&gt;除开这些节外生枝，所有车队和车手的目标都只有一个：登上领奖台。必须夸赞 Netflix 剧集的策划，剧名「飙速求生」(Drive to Survive) 显得无比真实，却又透出一丝丝的残酷和宿命感。剧集一共有十集，据传 Netflix 并没有能拿到头牌车队(法拉利和奔驰)的拍摄授权。歪打正着的是，虽然人人有机会，且人人都面临着巨大的压力和随时可能出现的难题。难以逃避的事实是 F1 的领奖台上永远有那么几张面孔（虽然这并不影响 F1 的观赏性），强队高手们，比如汉密尔顿和维特尔，永远很快很强大。所以他们的 &lt;em&gt;Survival&lt;/em&gt; 压力没有中间车队那么大。Netflix 也以此为每一集找到了贴近主题却又角度不同的切入点。看完实在令人叹服。&lt;/p&gt;
+
+&lt;p&gt;F1 实在是太快了，赛道内外的一切都是 300+ km/h 的节奏。Netflix 拍摄手法让观众可以放心的让情绪随着镜头流淌：这就是去年才发生的真人真事啊！但有时我刚刚被导演渲染的情绪打动，代入车手的喜悦和无奈里，情况就会发生转机。非虚构的赛事，却会有大到难以想象的不确定性。Haas 车队连续两次进站换胎出现了同样的失误，直接退出大奖赛。&lt;em&gt;火星救援&lt;/em&gt; 也不敢这么把人往死里设计的，命运的无情冠绝天下。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://wx3.sinaimg.cn/large/6d4c710cly1g3cxcwmmhej21c00u04qp.jpg&quot; alt=&quot;subtitle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;但其实最让人感同身受的就是这种无情又无奈的宿命感。F1，或者说所有的极限运动，都像是无限放大与浓缩人可能遇到的极端情况。要随时准备接受现状，调整状态。作为观众，也可以在起起伏伏的事件中，获得参与感，并很笃定地说「这样的阵仗都见识过了，还有什么好畏惧的呢」。&lt;/p&gt;
+
+&lt;p&gt;所以，赛场内外，Drive fucking wild, to SURVIVE。&lt;/p&gt;
+
+&lt;p&gt;p.s. 明天晚上九點，北京時間五月廿六日晚上九点十分有 F1 2019 賽季摩纳哥大獎賽。Monte Carlo，這是我最喜歡的賽道。小时候在米老鼠的漫画里就看见唐老鸭开过这条道。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A fresh beginning.</title>
+   <link href="http://localhost:4000/2019/05/22/a-fresh-beginning/"/>
+   <updated>2019-05-22T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2019/05/22/a-fresh-beginning</id>
+   <content type="html">&lt;p&gt;As I claimed in the &lt;a href=&quot;https://www.imisscoverflow.xyz/about/&quot;&gt;&lt;em&gt;About Page&lt;/em&gt;&lt;/a&gt;, having a personal blog set up is a long-wanted thing on my bucket list.&lt;/p&gt;
+
+&lt;p&gt;Now the box is checked, finally.&lt;/p&gt;
+
+&lt;p&gt;It’s always surprising to have all these years wasted in wanting a personal blog but doing literally nothing. Crystal clearly I know that anyone in dream of writing something on the Internet should have a blog running indepently from these babysitters even not being tech-savvy, period.&lt;/p&gt;
+
+&lt;p&gt;The moment finnaly came, I made up my mind that I should jump out of the trap set by Qzone and many other blogging-like service provider like Jianshu (but thumbs up for Medium), and of course, my laziness. And, really do something.&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;Thankfully I started out, and I won't call it a miss.&lt;/p&gt;
+
+&lt;p&gt;The basic idea is to make this a place where I can have a rest, like, &lt;em&gt;a home on the Internet&lt;/em&gt;. It is expected that I will share new gadgets, trends, perspectives and thoughts on great works of liberal arts. If you see any older post, that would be my previous posts somewhere else(mostly in Chinese).&lt;/p&gt;
+
+&lt;p&gt;I am grateful to those who provide tools that I used during the setting up of this blog. Also i would like to thank my friends, families and my girlfriend to keep me company during my looooong feeling down.&lt;/p&gt;
+
+&lt;p&gt;Like Jeremy Clarkson said on his DriveTribe: &lt;em&gt;My Tribe, My Rules.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, &lt;em&gt;My Blog, My Rules&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>eSIM 低头和华为抬头</title>
+   <link href="http://localhost:4000/2018/09/13/the-failure-of-eSIM-and-the-winning-of-Huawei/"/>
+   <updated>2018-09-13T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2018/09/13/the-failure-of-eSIM-and-the-winning-of-Huawei</id>
+   <content type="html">&lt;p&gt;Twitter 上的「宇宙漂流井底之蛙」@yllan 在今年七月新 MacBook Pro 发表的时候说：&lt;/p&gt;
+
+&lt;p&gt;「十年前的我會想買台嶄新的 MBP 好好犒賞自己爽一下。現在？也許沒那麽簡單了。我想要一個有希望的社會、環境可以生活在裏面。」&lt;/p&gt;
+
+&lt;p&gt;时隔两个月，新的 iPhone 如期而至。以我所见，没有人对此感到兴致盎然。是的，依然会有大量的人会在 9 月 14 日下午去抢金色的 512GB 款 iPhone XS Max。又如何？即使是同样乏善可陈的 iPhone X 发表完之后，我仍会在 YouTube 上浪费整天，去看新的 iOS 采用了什么样全新的手势交互，去期待这次的玻璃会有怎么样的全然一体的质感。你知道的，新的 iPhone 永远有惊喜，不一样。&lt;/p&gt;
+
+&lt;p&gt;但 2018 年的新 iPhone 们是三颗让人觉得绝望的炸弹。是的，iPhone XS 们依旧会是制造工艺处理器屏幕相机最好的电话，即使没有什么新的东西。但 Phil Schiller 的确开始在台上给你讲「双开双待」是什么东西了，这没有什么不好，但他也的确单独留出一页幻灯片，告诉身处中国内陆的我们：&lt;/p&gt;
+
+&lt;p&gt;这次虽然惊喜不多，失望确是巨大的。只有物理双卡。
+&lt;!--excerpt--&gt;
+数年前苹果就开始在能用蜂窝 4G 网的 iPad 上开始推行电子的 SIM 卡，这样用户可以在需要的时候随意切换自己使用的服务。而去年的 Apple Watch Series 3 也搭载了这项功能以实现 4G 数据连线。后续是，大陆用户只有寥寥数个城市的联通用户能用上这项功能。&lt;/p&gt;
+
+&lt;p&gt;「不忘初心」是说滥的话。四十年来，最重要的不是苹果的设备本身如何进化，而是这些设备上诞生了无数重要且有趣的事物。不要忘了，就连互联网本身都是在一台 NeXT 工作站上展现雏形。许多人没有意识到的是， iOS 和 macOS 才是至关重要的「平台」，Mac 和 iPhone 只是它的物理形态而已。新的 iOS 设备是什么样子，从来无关紧要，我关心的只是，iOS 能在新的设备上充分发挥自己的潜力吗。进而，能让用 iOS 的我激发自己的潜力吗？Alan Kay 说，对软件认真的人应该有自己的硬件。这话从来不假。有这样的 iOS，才有这样的 iPhone。&lt;/p&gt;
+
+&lt;p&gt;问题是：像 iOS 这样的技术在社会中到底以什么样的姿态出现？三十多年前，打造 Mac 的工程师们是一群艺术家。先驱们抱着对未来怎样的愿景去打造这所有的事物，作为用户的我们以什么样的心态利用这些设备和软件去创造所有的东西。期望努力之下的社会和世人能变成怎样的模样，期望技术在社会进步的过程里面扮演什么样的角色。期望技术进步之后的社会能以同样的姿态反过来促进技术的进步。eSIM 作为有潜力的新技术在推广过程中依旧被人为设下重重障碍。特供版物理双卡不是苹果的错，但的确是苹果的无奈。&lt;/p&gt;
+
+&lt;p&gt;沮丧吗？实用主义从来没有像今天这样获得数量众多的拥趸，技术也从来没有像今天这样尴尬过。华为在发表会后说自己「稳了」。微博下面会有人说华为有了 iOS 就无敌了。止增笑耳。eSIM 低头，华为抬头。@yllan 作为一个台湾人提出那样的期望，对岸的我除了认同也的确没有什么好说的。是普世的追求，好像在我们这里就尤其艰难。希望我们还有时间吧。&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

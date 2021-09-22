@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               I Miss Cover Flow
+tagline:             'Kevin Gu'
+description:         'Reaching out for the ultimate simplicity, at 33 1/3 rpm. Written by <a href="https://twitter.com/kev1ngu" target="_blank">Kevin Gu</a>.'
+url:                  https://imisscoverflow.xyz
+baseurl:             
+gems:                [jekyll-paginate]
+paginate:            5
+paginate_path:       "page:num"
+# About/contact
+author:
+  name:              Kevin Gu
+  url:               https://twitter.com/kev1ngu
+  email:             wxkevingu@gmail.com
+
+# Custom vars
+version:             0.3
