@@ -33,6 +33,8 @@ blog 起初想起名 B-Side of Kevin Gu，那个名字留给 [Telegram Channel](
 
 [Yang Lin](https://www.yanglin1998.icu)
 
+[Toby 的技术角落](https://blog.toby.vip)
+
 <br><br>// *一些技术背景*
 
 
