@@ -32,7 +32,7 @@ Top Case with Battery, ANSI, Silver Replacement(RMB 2,554) & Hardware Repair Lab
 新 MagSafe，头和线是分离的，140w PD 火牛（bo 老师：官方诱骗线），尤其是仍可以通过最高支援 240w 供电的 USB-C 4 接口充电，劲到爆。3.5mm jack 号称支持高阻抗耳机，但原来集成的 S/PDIF 功能继续被阉割，挺可惜。
 
 <br><br>
-记得 iPhone X 刚出的时候，flypig 在一期播客里说，不要把它看成屏幕里凹下去一块，而是看成原来完整的屏幕多出来两个耳朵的区域。我原本以为这是什么史诗级的自欺欺人，直到看到这次 keynote 屏幕避开 notch 向上边缘填充的动画……看官图，所有 pro app 的展示图里，notch 这一整条都是黑的。一块带着刘海的……120Hz / 10 bit / mini-LED / HDR 屏幕。
+记得 iPhone X 刚出的时候，flypig 在一期播客里说，不要把它看成屏幕里凹下去一块，而是看成原来完整的屏幕多出来两个耳朵的区域。我原本以为这是什么史诗级的自欺欺人，直到看到这次 keynote 屏幕避开 notch 向上边缘填充的动画……看官图，所有 pro app 的展示图里，notch 这一整条都是黑的（10:57 AM update: macOS 在全荧幕状态下会遮挡 notch 两旁的显示区域）。一块带着刘海的……120Hz / 10 bit / mini-LED / HDR 屏幕，fine。
 屏幕不错，接口齐了，感觉像一个 Pro 的电脑了，该有的都有了。但如果回到 2015 年的轨迹接着发展是对的，那 2021 年的 MBP 和六年前的款式有什么不一样呢？想来想去，还是只有 Apple Silicon。M1 Max 的各方面性能足够好了，可这个真的要试过才能说话了。So I end here.
 
 <br>
