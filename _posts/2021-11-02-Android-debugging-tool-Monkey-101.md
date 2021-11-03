@@ -32,34 +32,28 @@ Monkey 对应「猴子测试」，一种没有测试用例、没有测试计划�
 <br>
 
  *一台装有 Android platform-tools 的电脑：*
-
-1.下载 Android Studio。在 SDK manager 里下载 platform-tools。
-
-2.或下载 platform-tools。
+1.下载 Android Studio。在 SDK manager 里下载 platform-tools
+2.或，下载 platform-tools
 
 (Windows) 将压缩包内文件夹 \platform-tools 解压到特定位置，并添加 YOURDIRECTORY\platform-tools 到 PATH 系统变量的值中，重启 Windows。即可在 cmd/Windows Terminal 中直接使用 adb。
-
 (macOS) 将压缩包内文件夹 /platform-tools 解压到特定位置，修改所用 shell 的 $PATH。
 
 <br>
 
 *一台打开了开发者模式的 Android 装置：*
-
 前往**设置 - 关于**，点击 Build 号 7 次，返回上一级页面，显示**开发者模式**为打开成功。
 
 <br>
 
 *启用 adb 调试：*
 
-- Android 11+， 无线 adb
-
+// Android 11+， 无线 adb
 **开发者模式-无线调试**，启用后屏幕上会出现 Wi-Fi 配对密钥、连接的 IP 地址和端口（与旧版本 Android 不同，11+ 版本的端口随机生成）。在终端内运行 `adb pair ipaddr:port`，如 `adb pair 192.168.1.130:37099`，连接后运行 `adb devices`，看见装置在列表中即为成功。
 
-- Android 10 及更低版本，无线 adb
-
+// Android 10 及更低版本，无线 adb
 连接电脑和装置，终端中运行 `adb tcpip 5555`，在网络设置中获得装置的 IP 地址。随后在终端中运行 `adb connect YOURIPADDRESS:5555`，并运行 `adb devices` 检查。
 
-- USB 连接装置与电脑（任意 Android 版本）
+//USB 连接装置与电脑（任意 Android 版本）
 
 <br>
 
