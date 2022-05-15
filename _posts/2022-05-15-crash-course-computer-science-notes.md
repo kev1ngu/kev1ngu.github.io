@@ -8,22 +8,19 @@ title: Crash Course Computing Notes
 ### Crash Course Computing Notes
 
 ###### Kevin Gu, May 2022
+<br><br>
 
 1. Electrically-controlled mechanical switches
    
    - relays -> vacuum tube -> transistor(semiconductor material seperating two electrodes)
-   
-   .  IEEE 754 - floating point number 
-   
-   - In 32-bit floating point number,
-     
+      <!--excerpt-->
+   - IEEE 754 - floating point number 
+     In 32-bit floating point number,
      1: the first bit is used for the sign of the number -- positive or negative
      8: used to store the exponent
      23: used to store the significand
-     
-     e.g.: 625.9 can be converted to 0.6259 x 10^3, .6259 is called the significand, and 3 is the exponent.
    
-   <!--excerpt-->
+           e.g.: 625.9 can be converted to 0.6259 x 10^3, .6259 is called the significand, and 3 is the exponent.
 
 2. ALU - arithmetic unit + logic unit
    
