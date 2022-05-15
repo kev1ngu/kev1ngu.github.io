@@ -1,5 +1,3 @@
-### 
-
 ---
 layout: post
 title: Crash Course Computing Notes
