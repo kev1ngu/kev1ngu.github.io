@@ -4,13 +4,682 @@
  <title>I Miss Cover Flow</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-19T02:08:55+08:00</updated>
+ <updated>2022-08-27T19:04:40+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Kevin Gu</name>
    <email>wxkevingu@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2022/08/27/2022-08-27-spotify-car-thing-a-beautiful-mess/"/>
+   <updated>2022-08-27T19:04:40+08:00</updated>
+   <id>http://localhost:4000/2022/08/27/2022-08-27-spotify-car-thing-a-beautiful-mess</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Spotify Car Thing，买了，装了，聊聊。购入之前，我&lt;a href=&quot;https://t.me/theBsideofkk/844&quot;&gt;说过&lt;/a&gt; 会买 Car Thing 的其实是五类人群的交集：
+&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;这个东西适合：
+a) 有支持蓝牙的传统「单 DIN」车机，但看不上傻卵大屏，又不想把小尺寸车机换成支持 CarPlay 的大尺寸车机；
+b) 喜欢克制又有力的设计；
+c) 理解不打扰视线的车载设备的重要性；
+d) 使用 Spotify Premium 计划；
+e) 音响系统没「那么」好，或者不在乎出来的声音用不满 100% 的音响素质。&lt;/code&gt;
+&lt;br /&gt;
+她妈的，这也太 niche 了。做这么 niche 的产品，这辈子不会再怀疑 Spotify 要充满世界每一个角落愿景之真诚。问题是，这是一个硬件产品。做硬件需要大量的资金，押注更大。买的人又注定这么少，不知道 Spotify 在想什么。&lt;/p&gt;
+
+&lt;p&gt;自我定位属于目标人群吧，所以我买了，恰好赶上打折（下完单又降了两次价，什么叫不要脸，什么叫清库存，都学学）。打折的时候已经传出要砍掉这条产品线的消息，但想到有可能是「傻逼特斯拉大屏爱好者太多了 not 产品本身一坨屎」的缘故，一口气买了俩：这辈子有的是根本没屏幕的燃油车要玩。&lt;/p&gt;
+
+&lt;p&gt;安装很简单，可以选择 CD 插槽 / 出风口 / 仪表台三种方式固定本体，蓝牙一连，Spotify 里面一设置就好了。亮度和色彩都是 ok 的。
+！&lt;a href=&quot;http://wx1.sinaimg.cn/large/6d4c710cly1h5lj1l5j2bj234022oqv5.jpg&quot;&gt;img&lt;/a&gt;
+工业设计部分是合格的，按键手感阻尼适度，旋钮有 click 的段落感。软件部分应该是 Spotify 的传统优势了，尤其是 Now Playing 的界面，专辑封面 + 好看的字体 + 与封面主色调契合的纯色背景，开车的时候余光扫到，赏心悦目。&lt;/p&gt;
+
+&lt;p&gt;上手第一感觉是：动画真卡！一个参考是换装 8155 芯片之前的极氪 001 车机大概就是这个速度。但也完全不是会卡住的那种，以 49 美元来算的话合格了，99 原价买的建议开麦痛骂声破天。减少滑动的操作可以部分缓解不适，实体按键和语音识别对应的交互基本感觉不出卡顿。语音识别速度不算很快，识别率倒是不错。应该没什么车比我车还吵了，Car Thing 的麦克风在我车上表现不错，在别的车上肯定不会有问题。&lt;/p&gt;
+
+&lt;p&gt;每次启动，会跳一个 tips 一样的界面。目前遇到的有&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;告诉你 Car Thing 可以显示其他 app 的媒体控制（bug: 切到别的 app 后，继续显示之前在 Spotify 播放的那首歌的封面&lt;/li&gt;
+  &lt;li&gt;可以显示来电（bug: 来了三个电话一个都没显示）&lt;/li&gt;
+  &lt;li&gt;另外的一个 bug 是，有时候通电之后会很难连接到 iPhone 的蓝牙，而 iPhone 连车机没问题。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Car Thing 是一场美丽的灾难吗？是的，直观好看又考虑了驾车场景的软硬件，却软件完成度不高、小众的目标市场、功能少。但 Car Thing 放在出风口那，我就是忍不住会留意几眼，想要去划划屏幕，切换一下歌。要知道，音质什么的，从来不是听歌的重点。我知道，你们有好用的 CarPlay，有绚烂的大屏，Car Thing 和这些东西比甚至算不上 infotainment 系统，但它让我的驾乘体验感觉好了不少。这还不够吗？&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2022/08/27/2019-08-30-Designed-by-Apple-in-California/"/>
+   <updated>2022-08-27T19:04:40+08:00</updated>
+   <id>http://localhost:4000/2022/08/27/2019-08-30-Designed-by-Apple-in-California</id>
+   <content type="html">&lt;p&gt;去年還不知前年，托朋友在香港買了英文版的小號「Designed by Apple in California」。香港順豐寄到大陸家中，一直沒捨得拆開。
+今天沒忍住，拆了，一睹尊榮。&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;《Designed by Apple in California》透過 450 張我們的產品及其製造過程的相片，記錄了 Apple 20 年來的設計。這段視覺歷史，從 iMac 跨越至 Apple Pencil，闡述了創新材料及技術，讓每個細節真確呈現。這本精裝書冊，選用了經特別研磨的德國紙張，配上鍍啞銀邊，以八色分色及低鬼影油墨印製，編製歷時八年多，細意精心之處，與當中展示的產品同出一轍。Apple 一貫在設計、工程及製造上的一絲不苟，我們以此書致敬，亦以此書為證。&lt;/p&gt;
+
+&lt;h3 id=&quot;the-unbox&quot;&gt;&lt;em&gt;The Unbox&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqk55vslj319a0u0dm6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;打開順豐的快遞包裹，就可以看見 Apple 的白色紙盒包裝。這居然不是最後一層包裝。&lt;img src=&quot;/Users/kev1ngu/Downloads/Designed by Apple in California/Lightroom catalog/轉存/KEV_1460.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqqbhnf7j319b0u0he2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;這張質感與印刷精細度都極為優秀的紙上面印滿了 Apple 的 iconic design。真是極好的品質，不想讓它有任何破損，小心翼翼的放到一邊。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqpavpctj319b0u0npm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一層層的精緻包裝會在無形間提升對書本體的期待，拆 Designed by Apple 能獲得比 unbox 任何一件 Apple 產品都大的儀式感。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr2w8tbvj319b0u0x6v.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr4zojisj319b0u0u14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dedicated-to-steve-jobs&quot;&gt;&lt;em&gt;Dedicated to Steve Jobs&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr8r6o6xj31400u0qva.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我打心裡知道我不可能忍住不拆，但我完全沒有料到 Jony Ive 會先行一步離開 Apple。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hra5ogewj31400u07wo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrexhbdpj319a0u0e86.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrf4vv0kj30u00u0x6s.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrfe9tj6j31400u0e87.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hsyapkexj319b0u0npl.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;coda&quot;&gt;&lt;em&gt;Coda&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;HK$1,588，對於一本畫冊，尤其是這種品質的畫冊來說應該不算貴。但對於當時的我來說完全不是一個小數目。此書現已售罄，謝謝一咬牙購入它的自己，謝謝促成我購得此書的朋友，謝謝 Apple。&lt;/p&gt;
+
+&lt;p&gt;什麼是設計？為什麼設計？&lt;/p&gt;
+
+&lt;p&gt;This is the answer.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>自建 Assetto Corsa 服务器</title>
+   <link href="http://localhost:4000/2022/08/20/setting-assetto-corsa-server-on-vps/"/>
+   <updated>2022-08-20T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2022/08/20/setting-assetto-corsa-server-on-vps</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;你需要什么&quot;&gt;你需要什么&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;一台 VPS 或者充当服务器角色的 host&lt;/li&gt;
+  &lt;li&gt;一个购买过 Asstto Corsa 的 Steam 账号&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;快速搭建步骤&quot;&gt;快速搭建步骤&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;准备-vps&quot;&gt;准备 VPS&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;打开 AC 或者 Content Manager，已经能看到世界各地的公开比赛服务器。这些服务器大多在欧美地区，按照内地的网络环境，加入往往有较大的延时。在模拟赛车中，有时候 100 ms 的延迟已经会导致一次严重的赛道事故（尤其是 Monza T1 这种地方），不少服务器会针对高延迟用户做出踢出、封禁等动作，通常需要使用加速器等魔法才可以愉快地加入国际服务器。
+    &lt;!--excerpt--&gt;
+那么我自己搭建服务器玩 AC 的目的，一来是可以选用自己心仪的赛道 mod 和车辆 mod，二是国内的车友可能不精通网络技术，用国内机房可以避免上述的高 ping 问题。基于第二条，建议使用周边城市的机房。至于性能，国内的云平台的入门服务器已经可以支撑一场比赛，也就是说，搭建一年 AC 服务器的成本可以压缩到五十元（活动时可以更低）左右。&lt;/p&gt;
+
+&lt;p&gt;购买好 VPS 之后，首先需要对实例的防火墙进行设置。进到实例的管理后台，添加&lt;em&gt;入方向&lt;/em&gt;的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;UDP（9600）和 TCP（9600 &amp;amp; 8081）&lt;/code&gt;端口许可。
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;配置服务端-assetto-corsa&quot;&gt;配置服务端 Assetto Corsa&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;VPS 端的 OS 我选择的是 Ubuntu。一年几十块的服务器，算力少得可怜。Linux 可以更稳定，节省系统开销。不同的 distribution 操作大同小异。如果涉及到不同的包管理工具，需要对命令稍作改动。&lt;/p&gt;
+
+&lt;p&gt;用 SSH 登录（默认不使用 root 用户）进 host 之后，首先需要安装 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zlib1g:i386&lt;/code&gt; 和 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lib32gccl&lt;/code&gt; 这两个库（嗯……Steam 是 32 位的）。而我们的 OS 现在基本都是 64-bit 了，这就需要 dpkg 添加一下 32-bit 的架构：&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;dpkg --add-architecture i386&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo apt-get update&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo apt-get install zlib1g:i386&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo apt-get install lib32gcc1&lt;/code&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;创建文件夹供 Steam 使用，并赋予权限：&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo mkdir /home/steam&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo chmod -R 755 /home/steam&lt;/code&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ls -la /home/steam&lt;/code&gt; 检查一下是否已经有了正确的权限，我们继续：&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd /home/steam&lt;/code&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;下载 SteamCMD for Linux，解压并执行：&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;wget http://media.steampowered.com/client/steamcmd_linux.tar.gz&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tar -xvf steamcmd_linux.tar.gz&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rm steamcmd_linux.tar.gz &lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;./steamcmd.sh +@sSteamCmdForcePlatformType windows&lt;/code&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;这个时候就进入到 SteamCMD：&lt;br /&gt;
+Steam&amp;gt; login &lt;username&gt; &lt;br /&gt;
+Steam&amp;gt; passwd&lt;br /&gt;
+Steam&amp;gt; verification_code&lt;br /&gt;
+&lt;br /&gt;
+Steam&amp;gt; force_install_dir ./assetto&lt;br /&gt;
+Steam&amp;gt; app_update 302550&lt;br /&gt;  
+Steam&amp;gt; exit&lt;br /&gt;&lt;/username&gt;&lt;/p&gt;
+
+&lt;p&gt;这个时候，Assetto Corsa Dedicated Server（&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;App ID: 302550&lt;/code&gt;，也就是你 app_update 后面输的参数）便安装好了，路径 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/home/steam/asstto&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;检查你 PC 的游戏安装路径，里面 [assetto-corsa-installation]/server 和 VPS 上 /home/steam/assetto 的内容是一样的，而服务器的比赛、车辆、天气及各项细节设定，就在 ./asstto/cfg 的 两个 .ini 配置文件里。你可以在本地修改完这两个文件后，把 /cfg 的配置文件和 /content 中你想要的赛道车辆 mod 上传到 VPS（AC 会从服务器拉取 mod，以避免联机的各方存在本地 /content 文件夹中不包含这些 mod 的情况发生）。
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;启动服务端-ac-server--cm-添加服务器&quot;&gt;启动服务端 AC Server &amp;amp; CM 添加服务器&lt;br /&gt;&lt;/h3&gt;
+&lt;p&gt;全部关闭服务器防火墙还是有一些风险，推荐和之前安全组的设置一样，仅关闭特定端口：&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo ufw allow 9600&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo ufw allow 9600/udp&lt;/code&gt;&lt;br /&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo ufw allow 8081&lt;/code&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;启动服务器端 AC：
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/home/steam/assetto/acServer&lt;/code&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;log 不报错一般即为启动成功，这时可以去 Content Manager 里面添加我们的服务器：
+打开 CM，随便点击一个服务器，右下角设为 favourite，上方即出现 favorite tab。
+进入后下方出现 + 后（这个位置非常难找，我找了足足半个小时，比让 acServer 跑起来的时间还长），输入你的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;IP&amp;gt;:8081&lt;/code&gt;，即可搜索到搭建的服务器。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+Enjoy &amp;amp; Never Stop Driving!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;References:&lt;/em&gt;
+&lt;br /&gt;&lt;a href=&quot;https://www.assettocorsa.net/forum/index.php?faq/assetto-corsa-dedicated-server-manual.28/&quot;&gt;ASSETTO CORSA Dedicated Server manual&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;https://www.cnblogs.com/alsritter/p/13208723.html&quot;&gt;配置神力科莎Linux服务器&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Crash Course Computing Notes</title>
+   <link href="http://localhost:4000/2022/05/15/crash-course-computer-science-notes/"/>
+   <updated>2022-05-15T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2022/05/15/crash-course-computer-science-notes</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;crash-course-computing-notes&quot;&gt;Crash Course Computing Notes&lt;/h3&gt;
+
+&lt;h6 id=&quot;kevin-gu-may-2022&quot;&gt;Kevin Gu, May 2022&lt;/h6&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Electrically-controlled mechanical switches&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;relays -&amp;gt; vacuum tube -&amp;gt; transistor(semiconductor material seperating two electrodes)
+ &lt;!--excerpt--&gt;&lt;/li&gt;
+      &lt;li&gt;IEEE 754 - floating point number 
+In 32-bit floating point number,
+1: the first bit is used for the sign of the number – positive or negative
+8: used to store the exponent
+23: used to store the significand&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;        e.g.: 625.9 can be converted to 0.6259 x 10^3, .6259 is called the significand, and 3 is the exponent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ALU - arithmetic unit + logic unit&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;arithmetic unit: do arithmetic stuff with half-adder &amp;amp; full-adder or other curcuits&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;logic unit: perform logical operation &amp;amp; simple numerical tests(if a number is positive)&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Memory&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;AND-OR Latch(&lt;em&gt;锁存器&lt;/em&gt;, feed the output back into one of its inputs)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;a group of latches is called register(&lt;em&gt;寄存器&lt;/em&gt;, unit: width, number of latches)&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Latches are put in matrix if width is huge&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Latch address in a matrix can be written as XX column XX row&lt;/p&gt;
+
+        &lt;p&gt;multiplexer(&lt;em&gt;多路复用器&lt;/em&gt;) converts from an address into something that selects the right row or column&lt;/p&gt;
+
+        &lt;p&gt;Memory location: a 256-bit memory is a 16x16 matrix, every column/row can be represented with a 4-digit binary like 1101. Column + row = 8-bit binary for a 256-bit memory.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;CPU&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;instruction register + instruction address register + Control Unit: fetch/decode/execute cycle&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The speed at which a CPU can carry out each step of the fetch-decode-execute cycle is called its Clock Speed. One Hertz means one cycle per second.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;MMX, 3DNOW, SSE: dedicated CPU curcuits for graphics&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Bus transmits data between CPU and memory, a “load from RAM” instruction might take dozens of clock cycles to complete, so CPU cache is needed to stop CPU from waiting for the data.&lt;/p&gt;
+
+        &lt;p&gt;With cache, when the CPU requests a memory location from RAM, the RAM can transmit not just one single value, but a whole block of data. &lt;em&gt;Because computer data is often arranged and processed sequentially.&lt;/em&gt;&lt;/p&gt;
+
+        &lt;p&gt;When data requested in RAM is already stored in the cache like this it’s called a &lt;em&gt;cache hit&lt;/em&gt; or &lt;em&gt;cache miss&lt;/em&gt; otherwise.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;If CPU stores calculation result in cache rather than RAM, &lt;em&gt;dirty bit&lt;/em&gt; is marked to flag real data in RAM and temporary data in cache are not the same.&lt;/p&gt;
+
+        &lt;p&gt;So, if cache is full, dirty bit will be checked to see if data needs to be written back to RAM before cache cleans up.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Pipelining: use different parts of CPU at the same time to parallelize multiple processes.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Branch prediction: reduce idle time by guessing possibilities of a certain branch  to fill pipeline in advance.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Multi-core processors have several independent processing units but sharing cache so cores can work together.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Programming&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Von Neumann Architecture: Unifying the program and data into a single shared memory.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Each assembly language instruction converts directly to a corresponding machine instruction - &lt;em&gt;a one-to-one mapping&lt;/em&gt;&lt;/p&gt;
+
+        &lt;p&gt;Assembler still forces programmers to think about which registers and memory locations they will use. If you suddenly needed an extra value, you might have to change a lot of code to fit it in(address changes).&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Bundles of pre-written functions are called libraries.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Complexity of algorithm is written as &lt;em&gt;big O notation&lt;/em&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operating System&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;OS, being the first program to start when a computer is turned on(typically), launch all subsequent programs and have priviledges on the hardware.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Operating Systems stepped in as intermediaries between software programs and hardware peripherals by providing a software abstraction, through APIs, called device drivers&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Operating Systems virtualize memory locations with Virtual Memory, programs can assume their memory always starts at address 0. The OS and CPU handle the virtual-to-physical memory remapping automatically.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;kernel: core functionalities like memory management, multitasking,and dealing with I/O&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Directory File: Location zero, recording where other ones are located, metadata about these files, like when they were created and last modified, who the owner is, and if it can be read, written or both. 
+But most importantly, the directory file contains where these files begin in storage, and how long they are. If we want to add a file, remove a file, change a filename, or similar, we have to update the information in the Directory File.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Flat File Systems(files in a directory) &amp;amp; Hierarchical File System(Directory File needs to be able to point not just to files but also other directories, including extra metadata keeping track of what’s a file and what’s a directory, being the top-most one, known as the Root Directory)&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>《下沉消费指南》podcast 声音质量保障指南</title>
+   <link href="http://localhost:4000/2022/04/15/a-guideline-on-sound-qc-for-the-podcast/"/>
+   <updated>2022-04-15T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2022/04/15/a-guideline-on-sound-qc-for-the-podcast</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;决定 podcast 总体质量的因素有许多，在我看来，谈话的内容与声音的质量是最大的两个要素。虽然谈话的内容随机发生，且有前期的大纲与后期的剪刀做控制。但声音的质量，一旦处理稍有不当，则往往无法弥补。尤其是决定声音质量的变量繁多，参与录制的嘉宾往往又身处于不同的网络、声学、居住环境下，所以撰写此指南，以尽可能保证《下沉消费指南》统一、稳定、优质的声音质量。&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;本指南部分受《IPN 录音指南》影响，其中提到：「很多播客节目都会邀请嘉宾。嘉宾通常是某个领域的专家，但往往不是音频专家。她们很可能没有堪用的麦克风，而且并不了解录音时需要注意哪些基本问题。没有什么比专业视角和观点配上劣质录音更令人扼腕。」&lt;br /&gt;《下沉消费指南》的三位亦非录音专业者，所以本指南会随着《指南》的更新而进一步完善。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;环境&quot;&gt;环境&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;在录音前，保持门窗的紧闭（即便在夜深人静的时候）。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如非独居，请与屋内其他有可能进入的人提前做好说明，避免他人突然进入，打断录音或谈话的思路。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;请调低或暂时关闭屋内有运行噪音的家用电器，如加湿器、空调净化器、洗衣机等。需要特别注意，像扫地机器人等可能被设定为执行定时任务的装置，有突然运转的可能性，请留意单独检查。
+节目粗剪完之后丢群里进行「一起」试听和反馈&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;录音的操作与突发情况处理&quot;&gt;录音的操作与突发情况处理&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;录音采用 muiti-ender 法，即，每位参与者透过耳机去听其他嘉宾的声音，但使用「单独的设备」各自录制一条完整的轨道。后期时仅需要将这些轨道对齐，以加快后期的效率。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;有鉴于 Episode 1 的经验教训，即使部分或全部嘉宾在同一房间内，也应采取上述录制方案，以尽可能避免单只麦克风不能清晰捕捉到所有嘉宾声音的情况。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;对于不使用专业录音设备的嘉宾，录音设备推荐使用打开勿扰模式的 iPhone。将 iPhone 用书垫高到与嘴巴齐平的位置，能大概率获得令人满意的声音。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;@小胡：若使用 iPhone 录制，请先去「设置 - 语音备忘录 - 音频品质」处，选择「保真」。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;一旦主持人示意开始，即便遇到宠物乱窜、窗外有摩托车/救护车等情况，也不要停止或者暂停录制（这是为了获得一条完整的轨道以便后期处理）。录制中如遇某人的设备失去响应/录音 App 崩溃等情况，主持人应提醒大家一起结束录制并待情况稳定后重启录制。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;房间四角有书柜衣架、杂物堆砌的情况下，声波的杂乱反射会有效地减少。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;如果不能做到声学环境令人满意，也应尽量避免发出敲击键盘、喝水、衣物摩擦、身体移动等细碎噪音。录音时间可能会超过一小时甚至更长，这一点请时不时提醒自己。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;由于影响最终声音的变量过多，即便是身处于同一个环境并使用同一设备录音，最后得出的结果也有可能会不同。建议在每期录音前，与其他参与者进行五分钟左右的 test run，由当期的剪辑者快速的试听各条音轨（不必进行音轨混音），以确保最终的结果符合预期。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;后期处理&quot;&gt;后期处理&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;保留所有音频文件与工程文件的源文件。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;声学环境可能难以做到尽善尽美，对于质量低过预期的音轨，请当期剪辑采用 @ Mivansaka 的&lt;a href=&quot;https://mivansaka.xyz/2022/05/the_podcast_noise&quot;&gt;方案&lt;/a&gt;进行处理：利用 Audacity 的 Noise Gate 插件，对转换为 .wav 的文件（iPhone 语音备忘录默认输出 .m4a 格式文件）进行降噪。这一 guideline 在「使 Gate threshold 强度以下的音频波形均将为0的一根直线」操作完成后，可以实现「杂音滤完以后异常安静，猫叫、车流都听不到了」的效果。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;当期剪辑需要在剪辑完后与其他 host 一起试听。所有 hosts 在剪辑完成后需要一起完整收听一遍，节目方可以上线。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;剪辑对嘉宾的剪辑质量负责，需负责提醒、帮助嘉宾完成本指南的技术要求。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Making of Our Podcast</title>
+   <link href="http://localhost:4000/2022/04/04/making-our-podcast/"/>
+   <updated>2022-04-04T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2022/04/04/making-our-podcast</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;《下沉消费指南》podcast 今日上线。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;这是一档以自我为中心的 podcast。我们试图在消费主义和技术崇拜的浪潮中，找到独立的表达。&lt;/em&gt;
+&lt;em&gt;《下沉消费指南》由小胡、Mivan、Kevin Gu 与随机出现的嘉宾们带来。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h3&gt;
+
+&lt;p&gt;年初在黄楼 Jazz Club，我和 Mivan 说，想要做一个无主题、结构松散、嘉宾流动性大的播客。虽然无主题，但大概就是数字生活和生活方式这些泛泛的话题。同时我提出不要大纲，只是有一个粗略的预设话题。「即兴」，我开始哔哔，「即兴就是，你看台上这些乐手，如果他们开始即兴也不会是胡来，而是有一个确定的走向，在这个框架里自由发挥。而我最爽的就是看他们即兴。」&lt;/p&gt;
+
+&lt;p&gt;喝完各自回家。其实若干年前，我亦想制作播客，一是童年时看郑渊洁写，他一上车就会按下卡带录制键，录下和儿子在车上的聊天内容，整理成册并最终付梓。二是二〇一三年，我在知乎上见到一个叫 Lawrence Li 的人提及他制作的 Podcast，这种形式对当时的我来说很新鲜。下载 MP3 文件，导入 iPod，偷偷在宿舍里听完后，非常过瘾。加上我又是一个热爱哔哔的人，算是种下了种子。节后我们齐聚杭州，重新提起，已是三月十七。彼时确定了要尽快讨论第一期的选题，时光飞逝，容易一拖又是一年。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-making&quot;&gt;The Making&lt;/h3&gt;
+
+&lt;p&gt;昨夜，我们相聚。在选题前，达成了一些技术层面与意识上的共识：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;参照&lt;a href=&quot;https://blog.yitianshijie.net/2017/10/13/ipn-guide-to-podcast-recording/&quot;&gt;《IPN 录音指南》&lt;/a&gt;中列出的一些建议与经验，确定录音的方式（iPhone + Multi-Ender 录音法）与后制方法（GarageBand 完成）。&lt;/li&gt;
+  &lt;li&gt;无需拘泥于技术层面的细节，观众最终听的是 show 的内容。&lt;/li&gt;
+  &lt;li&gt;节目的气质与调性需要持续的创作去传达和保持。&lt;/li&gt;
+  &lt;li&gt;不应让节目成为一种 self-branding 的工具，也不因为 podcaster 的身份加持就与人不同。&lt;/li&gt;
+  &lt;li&gt;不刻意迎合听众。&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;尊重 Podcast 形式本身的气质，保持较低的干货比例。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;尽管可以相对随意，音频听感与谈话内容的质量仍需要尽力保障。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;保留所有音频文件与工程文件的源文件，以备不时之需。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;第一期选题为什么会是手机相关，是因为席间小胡提到他和同事先前的讨论。我觉得无比的恶俗，非常影响装逼，立刻输在起跑线。而这属于那种随时坐下来都能开始唠的 EASY 模式话题，立刻能聊 = 有今晚就把所有一切都搞定的可能性，show some 中国速度。有了选题，这件事情终于开始慢慢向前推进。但很快就意识到，除了选题，还需要 logo 与一段主旋律。&lt;/p&gt;
+
+&lt;p&gt;当即打开 GarageBand，拖入几段 loop，听感都不佳。反复比较，最终选择两层 bass + 两层鼓 + 一段调制解调器拨号上网时声音的采样。只能说我的音乐制作水平大概也就是这样了。然而这个小要素的完成极大的鼓舞了我们，真的就马上打开 QuickTime 准备正式的录音。&lt;/p&gt;
+
+&lt;p&gt;恰巧 MacBook Air(M1, 2020) 引入了三麦克风的设计，录音质量初听尚可，所以即便主创们凑在小胡寒冷而声学环境不堪入目的屋子里，也立刻开始了录制。我以为这样的题目聊超过二十分钟都不太可能，但我们真的话痨般废话了一个多小时。只按下过一次录制键，就获得了我想要的那种自然的日常聊天感，会不会太幸运了！&lt;/p&gt;
+
+&lt;p&gt;毫无准备地输出完整观点还是挺有挑战性的，可我们都觉得尽量保持原貌会更自然。又是 GarageBand，把言语的边角料剪去后，混上刚刚做好的音乐，第一期的文件好像就完成了？这么快的节奏有一种不真实感，可却越发让人激动，原来做 podcast 没有想象中那么复杂。在午夜时分，我们决定立刻完成全部的制作。&lt;/p&gt;
+
+&lt;p&gt;Logo 是取的小胡桌上小米台灯的颜色，并进行微调。字体选用阿里（whose 总部就离录制地点五百米远）（which I hate it but 没人和钱过不去）普惠体。文件解析度 800x800，一些平台抓取 RSS 后展示时还是有一些模糊，后续会尽量 remaster 一遍。&lt;/p&gt;
+
+&lt;p&gt;平台选用了 Anchor。可以将文件托管于此，获得 RSS 地址进行分发。Apple Podcast 是目前最大的播客数据库，可惜国区会进行额外的审查。所以在确保泛用型播客客户端和全世界（除中国大陆外）的 Apple Podcast 可以访问后，为了国内的听众，我们另使用小宇宙的账号绑定了 Anchor 导出的 RSS 地址。&lt;/p&gt;
+
+&lt;p&gt;上架小宇宙，优点是不乐于尝试泛用型客户端的国内听众亦可聆听，且可快速评论反馈，甚至是在评论中插入某一特定时间戳。缺点是小宇宙访问的文件还是托管在 Anchor 的境外服务器上的，易受到网络环境影响。&lt;/p&gt;
+
+&lt;p&gt;（I know how to fix this 但实在是一分钱都没有了毕竟这是一个啥都 DIY 的团队）&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-launch&quot;&gt;The Launch&lt;/h3&gt;
+
+&lt;p&gt;在选题会突然变成第一期的马拉松式制作会后，我们花了七个小时从前期筹划到第一期上线的所有工作。相信大家听完第一期后应该可以明白，这三个果蛆能在苹果的平台上看见自己的作品有多么兴奋。恰逢清明假期，谢谢大家在上线后的第一时间就关注我们的节目和 &lt;a href=&quot;https://twitter.com/cheaperlifstyl&quot;&gt;Twitter&lt;/a&gt;。没有设立正式的反馈渠道，这一点亟待改进。但从各种 IM 软件里，我们依然收到了各位对内容本身的讨论与评价。&lt;/p&gt;
+
+&lt;p&gt;这些反馈让我非常兴奋，也诚惶诚恐。播客诞生许多年，相当多的人在制作与收听。年末听到朋友评价，他心中大多数播客不过是令人生厌的废话大全。害怕自己与其他参与者的成果也归入此类。占用听众的时间，更多的甚至还是最难得的闲暇时间，如果做了垃圾出来，是一种巨大的罪行。好在初期的反馈还算正面，如释重负，哈哈。&lt;/p&gt;
+
+&lt;p&gt;接下来，没有「创造价值」的虚假追求，也没有「打造最好中文播客」的狂妄之词。我、Mivan 和小胡会尽量邀约有趣的嘉宾加入，并尽量保证持续的创作，把《下沉消费指南》做成我们心中理想的 Podcast 模样。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;*一个数据是：节目上线的数小时内，我们的 Twitter 和小宇宙的关注数就几倍于播放量（sarcasm, huh?）。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>目前用过最好的内网多设备互传工具 - KDE Connect</title>
+   <link href="http://localhost:4000/2021/11/03/So-far-the-best-LAN-multi-device-tool/"/>
+   <updated>2021-11-03T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2021/11/03/So-far-the-best-LAN-multi-device-tool</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;搬砖，需要经常在多个非个人所属的 Android/iOS/Windows/macOS 设备之间互相倒文件和剪贴板。找来找去，最好用、稳定的，目前发现是 KDE Connect。KDE 开发了 Linux 下鼎鼎有名的桌面环境，他们出品的 Connect 不仅开源免费，气质也与他们以往出品相同。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我没有特别强的协同需求，尤其是大部分时间都在用自己的 iPhone 和 Macintosh，Apple 给的足够吃。KDE Connect 如今用的人很多，网路上可以找到很多详细的介绍，只提一两点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;设置和使用非常便捷。macOS 的 indicator app 启动后不会有提示，需要到菜单栏去找，浅色模式下图标看起来不很明显，第一次打开容易怀疑 app 没有启动。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;基本配置是将安装了 Connect 的装置连至同一 LAN，打开 pair 即可使用。但 Windows 的界面与 macOS 的不完全一致。&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;iOS TestFlight 要求最新版本的 iOS 才允许开始使用 beta app。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;macOS Monterey(currently macOS 12.0.1) 许多功能不可用，如同步移动装置推播通知到电脑。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Also macOS，目前还在测试阶段，需要去他们的 &lt;a href=&quot;https://binary-factory.kde.org/view/MacOS/job/kdeconnect-kde_Release_macos/&quot;&gt;Jenkins&lt;/a&gt;， Rosetta 转译下在 Apple Silicon 上可以正常使用。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Android Debugging Tool Monkey 101</title>
+   <link href="http://localhost:4000/2021/11/02/Android-debugging-tool-Monkey-101/"/>
+   <updated>2021-11-02T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2021/11/02/Android-debugging-tool-Monkey-101</id>
+   <content type="html">&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+
+&lt;p&gt;Android 的开发者设计了多种多样的调试工具（如：adb，fastboot，AVD），其中部分以命令行工具的形式收录在 &lt;a href=&quot;https://developer.android.com/studio/releases/platform-tools&quot;&gt;Android SDK&lt;/a&gt;中。测试人员在测试过程中，可以利用这些工具，辅助对 Android app 的测试。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://developer.android.com/studio/command-line/adb&quot;&gt;adb&lt;/a&gt;，就是这样一种调试用的命令行工具。adb 采用客户端/服务端架构，通过命令行中的 adb 命令唤起客户端进程，向 Android 设备发送指令；客户端进程会检测并创建（如果无） 一个运行于 PC 后台的服务器进程与设备建立通讯；设备上的 adbd（后台驻留程序），在 Bridge 建立后，则会执行收到的命令。&lt;/p&gt;
+
+&lt;p&gt;adb 本身只是一个「桥」，但许多命令都被封装在 adb 内。尤其是可以通过 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb shell &lt;/code&gt;访问设备上的终端，并以此为入口访问 Monkey 等实用工具。本文会附带谈及如何在 PC 上搭建一个可以运行 adb 的最小环境。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;Monkey 对应「猴子测试」，一种没有测试用例、没有测试计划、没有测试需求的测试场景，应用于开发后期对 app 进行的压力测试。它的设计初衷是，一只没有人类智慧的猴子不会根据测试用例顺着业务流逐层向下，而是会随便乱点乱戳。当用户输入 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb shell monkey&lt;/code&gt; 指令后，真机或模拟器上的 monkey 程序就会向指定的包，以一种可被重复的方式发送指定 Seed 数的伪随机操作流。这些操作包括切换程序、点按、手势、调节音量、唤起语音助手（若有实体语音助手键或设置了长按 home 键唤起）、截图等。&lt;/p&gt;
+
+&lt;p&gt;「无限猴子定理」指出，「让一只猴子在打字机上随机地按键，当按键时间达到无穷时，几乎必然能够打出任何给定的文字，比如莎士比亚的全套著作」，同样是猴子，Monkey 提供了一种几乎可以覆盖所有可能引起应用 crash 操作的工具。因为 test case 中的异常流设计可能不全面，甚至产品需求中的业务流程也会有遗漏。猴子测试中的异常情况，可以对这两种情况起到补充的作用，发现 QA 流程预期之外的 bug，从而让 app 的运行情况在预期之内。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;configuration&quot;&gt;Configuration&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;一台装有 Android platform-tools 的电脑：&lt;/em&gt;
+1.下载 Android Studio。在 SDK manager 里下载 platform-tools
+2.或，下载 platform-tools&lt;/p&gt;
+
+&lt;p&gt;(Windows) 将压缩包内文件夹 \platform-tools 解压到特定位置，并添加 YOURDIRECTORY\platform-tools 到 PATH 系统变量的值中，重启 Windows。即可在 cmd/Windows Terminal 中直接使用 adb。
+(macOS) 将压缩包内文件夹 /platform-tools 解压到特定位置，修改所用 shell 的 $PATH。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;一台打开了开发者模式的 Android 装置：&lt;/em&gt;
+前往&lt;strong&gt;设置 - 关于&lt;/strong&gt;，点击 Build 号 7 次，返回上一级页面，显示&lt;strong&gt;开发者模式&lt;/strong&gt;为打开成功。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;启用 adb 调试：&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;// Android 11+， 无线 adb
+&lt;strong&gt;开发者模式-无线调试&lt;/strong&gt;，启用后屏幕上会出现 Wi-Fi 配对密钥、连接的 IP 地址和端口（与旧版本 Android 不同，11+ 版本的端口随机生成）。在终端内运行 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb pair ipaddr:port&lt;/code&gt;，如 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb pair 192.168.1.130:37099&lt;/code&gt;，连接后运行 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb devices&lt;/code&gt;，看见装置在列表中即为成功。&lt;/p&gt;
+
+&lt;p&gt;// Android 10 及更低版本，无线 adb
+连接电脑和装置，终端中运行 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb tcpip 5555&lt;/code&gt;，在网络设置中获得装置的 IP 地址。随后在终端中运行 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb connect YOURIPADDRESS:5555&lt;/code&gt;，并运行 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb devices&lt;/code&gt; 检查。&lt;/p&gt;
+
+&lt;p&gt;//USB 连接装置与电脑（任意 Android 版本）&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;usage&quot;&gt;Usage&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在配置好环境，并连接上设备后，我们就可以使用 Monkey 工具进行测试。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;首先获得包名。&lt;/p&gt;
+
+&lt;p&gt;运行 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb shell pm list package -3 | grep KEYWORD&lt;/code&gt;，可以获得目前 KEYWORD app 对应的包名。获得包名后，即可运行 Monkey。如 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb shell monkey -p com.your.app --throttle 100-s 43686 50000&lt;/code&gt;，详细的参数见&lt;a href=&quot;https://developer.android.com/studio/test/monkey?hl=zh-cn&quot;&gt;表&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在本人使用过程中，一般会使用如下参数：
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;adb shell monkey -p com.my.app --throttle 100 -s 43686 -v 1 50000 --pct-touch 30 --pct-motion 20 --pct-trackball 20 --pct-appswitch 10 --pct-syskeys  10 --pct-anyevent 10&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;参考上表，不难发现，此段 monkey 命令的参数指的是：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;通过 -p com.my.app 指定对 com.my.app 进行测试&lt;/li&gt;
+  &lt;li&gt;通过 –throttle 100 指定在事件中插入 100ms 的间隔&lt;/li&gt;
+  &lt;li&gt;通过 -s 43686 指定随机事件数生成器种子值为 43686（注意此值应尽量在一段时间内保持一致）&lt;/li&gt;
+  &lt;li&gt;通过 -v 1 指定 VERBOSE 啰嗦模式参数为 1，提供有关测试在运行时的更多详细信息&lt;/li&gt;
+  &lt;li&gt;通过 50000 指定发送 50000 个伪随机事件&lt;/li&gt;
+  &lt;li&gt;–pct 选项分别分配了 30% 轻触事件、20% 动作事件、20% 轨迹球事件、10% 应用切换、10% 系统按键事件与 10% 的其他事件。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;需要注意，由于 Monkey 的机制是发送伪随机的控制流，而非完全随机。故当 seed 控制为一致的数值时，Monkey 在每次运行时都将会生成相同的事件序列。这有助于复现缺陷，或是使用应用商店审核时的参数去针对性地修复缺陷。但当一定数值的 seed 稳定通过后，应当更换 seed 再次测试，以提高通过应用商店使用随机种子值测试的概率。–throttle 亦需要根据当前 app 开发优化程度进行调整，如线上环境网络响应速度都要好于测试环境，则测试时 –throttle 需要适当调高数值。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;在测试过程中，手机会在 Monkey 的控制下自动进行操作，若想终止，需新建终端窗口，运行&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt; adb shell ps | grep monkey&lt;/code&gt;，取得 monkey 的 pid 进程号，并运行&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt; kill *PIDNUMBER&lt;/code&gt;*。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;可以将 Monkey 的测试日志保存到指定位置。如（Linux &amp;amp; macOS）：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;monkey -p com.my.app -s 666 500 &amp;gt; ~/log.txt&lt;/code&gt;。如此 monkey 就会将测试日志保存在用户文件夹下的 log.txt 中。&lt;/p&gt;
+
+&lt;p&gt;通过的，日志底部显示 #Monkey finished。未通过的，在日志底部会有 aborted due to an error 等提示。日志中 Crash 和 ANR 错误的格式与原因定位，可参见：https://www.cnblogs.com/Chilam007/p/10941092.html&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MacBook Pro, A 5-year Nightmare</title>
+   <link href="http://localhost:4000/2021/10/19/MacBook-Pro-a-5-year-nightmare/"/>
+   <updated>2021-10-19T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2021/10/19/MacBook-Pro-a-5-year-nightmare</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;blog 停止更新许久。几度在新的设备上 git clone 仓库，想发表言论又半途而废。以后可能还是尽量多留一些在 blog 上，即便是小于 140 字的内容。&lt;/p&gt;
+
+&lt;p&gt;Keynote 开始前几天，我在微博上大概是说， Pro 的那些真正客群已经长达五年（2016 - 2021）不知道能买什么电脑，在这五年里面，Apple 事实上以各种方式，明里暗里承认了这一世代的 MacBook Pro with Touch Bar 有多么的烂。五年终于结束，挑几个点鞭尸一下。主要是喷，顺带聊一下半小时前刚 reveal 的新 MacBook Pro。还没看任何第三方评论，可以说是东八区最主观的碎碎念：
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;!--excerpt--&gt;
+
+&lt;p&gt;蝴蝶键盘，估计会多喷一点，gotta get my beer first。这个其实并不是这一世代模具下的必然产物，比如初代的 MacBook Pro 16“ 以及其发布之后的其他笔记本苹果机基本都采用了长键程键盘 + 独立 ESC 键 + 独立 Touch ID。它们就没问题。
+本人进入大学时，在遥远而美丽的二〇一七年购入过一台 MacBook Pro 15”（proudly picked up in HK），当时天真地认为，不过是键程短了些，输密码这种刻进手部关节 DNA 的动作随着键程变短甚至更流畅了（别 judge 我为什么不用密码管理器使用复杂密码，任何人都有苦衷）。而且当时对 $AAPL 的创新节奏产生了巨大的误判，认为苹果搞了个 Touch Bar，还把触控版搞得 unnecessarily huge，肯定很快就会把整个 C 面干掉，换成全触控 + Haptic。现在看起来实在是，令人可笑地令人可笑。
+言归正传，在五个月后，我就明白了什么叫™的蝴蝶键盘。我的 W 键和左 shift 遇到了粘滞、按下去无反馈的现象。Don’t fuck with me. I got a whole ton of time back then. 天才大阿哥这么和我说的，「你这个情况其实没什么人遇到了啊，但为了体验我就直接给你换 top case 啊，你看这个美国阵列键盘（注：简体中文阵列键盘又是另一个很搞笑的东西。如果你在美式阵列下使用 macOS 自带简体输入法，按下 Caps Lock 效果依然等同于简中阵列同位置的中/英切换键。你没有猜错，简中阵列同样是 since 2016）没库存的，要等啊」。二〇一七年啊，朋友们，二〇一七年我年轻到年轻这个词都根本配不上我。怎么可能怕等，就是怕要收钱。	
+&lt;br /&gt;
+Top Case with Battery, ANSI, Silver Replacement(RMB 2,554) &amp;amp; Hardware Repair Labor(RMB 299), TOTAL 0.
+0，零， 〇，zero，ゼロ。Life’s Good. 
+所以当时我带着极大的恨意去了苹果大卖场，&lt;a href=&quot;https://theoutline.com/post/2402/the-new-macbook-keyboard-is-ruining-my-life&quot;&gt;Outline 的这篇美文&lt;/a&gt;我提前读了很多遍，同仇敌忾之情四溢，直到回家收到 Genius Bar 工作授权，看到那个 0。我想，苹果真好，Apple Store 的空气是甜的。
+后来倒也没用出什么问题来，只是被贪便宜选的 256GB SSD fuck day and night，不堪其扰，打算卖了换个 512GB 的。一八年夏天在日本，就在我美美准备去 Apple 心齋橋自提时（别问我为什么大陆现在才开自提），MacBook Pro 2018 发布了。
+裤子脱了又穿了回来。拿到新的 MBP，发觉键盘按起来不一样。ifixit 指认苹果在键帽下加了一层薄膜，防止灰尘进入。事实证明这一点屁用没有。2019 款 MBP 发布后的两天，苹果终于承认这是个设计缺陷，发了&lt;a href=&quot;https://support.apple.com/zh-cn/keyboard-service-program-for-mac-notebooks&quot;&gt;召回计划&lt;/a&gt;，包括 2016-2019 的所有笔记型苹果机，买了 MBP 2019 的人，机子可能还没发出来就已经进召回计划了。这很好笑，之前写这么一大堆就是为了这个点做前情提要。而我自己的那台 MBP 2018，上个月也进苹果大卖场，来了一次 Top Case 更换大法。蝴蝶键盘，止增笑耳。
+&lt;br /&gt;
+所以去年 16 寸首次出现时，倒 T 型方向键、独立 ESC 和正常的键程这些种种的引入让 MBP 看起来重新可用了，可见薄薄的蝴蝶键盘有多么地让人反感……当时另有预感 Touch Bar 可能会在某次更新时一起被干掉，还给人类一个正常的键盘了。Touch Bar，不能说不好，除了找 emoji，基本没用过。而且这玩意合盖模式下根本不 accessible。但人就是贱，太久不用会突然有新鲜感，故意要找机会拖那么两下，拖完又觉得是个大傻逼功能。Touch Bar 据说控制单元复杂程度堪比一只 Apple Watch，公认的除了增加功耗、生产成本和维修成本之外没什么用，在消费者真正不在乎的地方大做文章，一搞就是五年。
+&lt;br /&gt;
+「它们有着专业用户喜欢的机械按键手感」，我想说新 MBP 的键盘实在太美了，the way a keyboard should be and must be。所有的键都以该有的样子在它该待的地方上，并能给用户正确的反馈。其实不是专业用户喜欢，而是全部用户都喜欢。今天打着专业用户喜欢的旗号拨乱反正，只能说过去五年苹果真没想明白专业用户要什么，也有可能是大公司病又严重了，巨人转身慢。一直好奇发布会上 Apple 会怎么告诉人民群众自己开倒车，万幸最后还是等来了好的结果。一块普普通通的好键盘配上一块大大的触控板，好极了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+上一世代的 MBP，非常的薄，面向专业用户的笔记本印象里很少有这么薄的。薄不是坏事，问题是一薄就会导致很多设计上的妥协，而 Pro 笔记本轻薄程度才是最应该被妥协的那一个。因为 ID 部门某个大傻叉脑子一热，大家要集体为更脆弱的结构、更小的电池、更烂的键盘、更差的性能和更低的维修性买单。蝴蝶键盘是个什么货色，提过了。这一世代基本就是买了你就别想自己折腾。能焊死的全部焊死，并在 2018 款开始集成 T2 芯片，检测硬件变更，性能不够想升级，不存在的。电池坏了、键盘坏了、触控板坏了，官方维修都得换总成。深空灰的外壳，贴纸贴久了撕下来，氧化铝表面涂层会跟着一起下来……而且万一是一台电脑用很久的真正专业人士，计划报废跑不了了。
+新 MBP 看起来厚实多了，还有着和 PowerBook 神似的外壳。今年恰逢 PowerBook 问世卅年。如果这是有意为之，确也令人欣慰。我个人对 going all USB-C 向来抱积极态度。尽管带回 SD slot 和 MagSafe 的呼声很高，但给多种接口，尤其是 MagSafe，也许是为了向人民群众表达一种下跪赎罪的态度。
+新 MagSafe，头和线是分离的，140w PD 火牛（bo 老师：官方诱骗线），尤其是仍可以通过最高支援 240w 供电的 USB-C 4 接口充电，劲到爆。3.5mm jack 号称支持高阻抗耳机，但原来集成的 S/PDIF 功能继续被阉割，挺可惜。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+记得 iPhone X 刚出的时候，flypig 在一期播客里说，不要把它看成屏幕里凹下去一块，而是看成原来完整的屏幕多出来两个耳朵的区域。我原本以为这是什么史诗级的自欺欺人，直到看到这次 keynote 屏幕避开 notch 向上边缘填充的动画……看官图，所有 pro app 的展示图里，notch 这一整条都是黑的（10:57 AM update: macOS 在全荧幕状态下会遮挡 notch 两旁的显示区域）。一块带着刘海的……120Hz / 10 bit / mini-LED / HDR 屏幕，fine。
+屏幕不错，接口齐了，感觉像一个 Pro 的电脑了，该有的都有了。但如果回到 2015 年的轨迹接着发展是对的，那 2021 年的 MBP 和六年前的款式有什么不一样呢？想来想去，还是只有 Apple Silicon。M1 Max 的各方面性能足够好了，可这个真的要试过才能说话了。So I end here.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+2016-2021，刚好是我在大学的时间，我的 MacBook Pro 陪我走走停停度过一段漫长的重要时光，写着写着就会想起很多个刚刚离我远去的日日夜夜。我带着它去了无数地方，消费了内容，生产过内容。对我，对很多人来说，它都是 THE Pro laptop。HBO 的 &lt;em&gt;Silicon Valley&lt;/em&gt; 里说，&lt;em&gt;Everyone here got a fucking 15 inches MacBook Pro&lt;/em&gt;。如果今天 MBP 没有换上 Apple Silicon，仅仅是其他的这些变化，也会有人买单。因为那样就足够他们快乐地进行创作了。&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>WWDC20 Keynote 观后</title>
@@ -442,9 +1111,9 @@
  
  <entry>
    <title>People still prefer brigter photos, period.</title>
-   <link href="http://localhost:4000/2019/12/18/people-still-prefer-brigter-photos-period"/>
+   <link href="http://localhost:4000/2019/12/18/people-still-prefer-brigter-photos-period/"/>
    <updated>2019-12-18T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2019/12/18/people-still-prefer-brigter-photos-period.</id>
+   <id>http://localhost:4000/2019/12/18/people-still-prefer-brigter-photos-period</id>
    <content type="html">&lt;p&gt;MKBHD 年末傳統藝能：「智能手机相机盲测」。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006tNbRwgy1ga182q2nelj31md0u04qt.jpg&quot; alt=&quot;Screen Shot 2019-12-18 at 9.57.03 PM&quot; /&gt;&lt;/p&gt;
@@ -458,29 +1127,6 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;2017 年的双摄没有让大众拥有欣赏「景深」的意识，2019 年的旗舰机也没能做到。除了景深，解析度和 HDR 在「更亮」面前也得靠边站。社会现状。&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>回望 2010s</title>
-   <link href="http://localhost:4000/2019/12/15/a-gentle-looking-back-at-2010s/"/>
-   <updated>2019-12-15T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2019/12/15/a-gentle-looking-back-at-2010s</id>
-   <content type="html">&lt;p&gt;这周睡眠黑白颠倒，叫我在十秒钟内回答今天是周几都未必说得出来。却也不例外地对 2010s 的终结很敏感。同学之间开玩笑会说「你这是二十世纪十年代最后的 XXX」，此话术最近两天被滥用之频繁几乎可以与「平成最后的 XXX」抗衡。&lt;/p&gt;
-
-&lt;p&gt;有什么比一年将尽之时做总结更土的？回望过去的十年。&lt;/p&gt;
-
-&lt;p&gt;但这情绪很真切。英文里有单独的词指代十年。十年很自然地成为了一种时间尺度单位，这和十进制渗入到了每个人的生活有关吗？假如人人都用二进制计数，人们还是会情不自禁地回望每一个 1010 年（这显然是二进制中的十年）。&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;2010s 对我尤其特殊。&lt;!--excerpt--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;2010 年的时候，我是学生。2019 的时候，我还是个学生。不同的是 2010s 串起了我从小学走到大学的过程。观察世界的角度也在其间发生了巨大变化。&lt;/p&gt;
-
-&lt;p&gt;2010s 是割裂的。2010 年 GFW 建起来没几年，是传统的 VPN 还能奏效的远古洪荒时代。公知（非贬义）还能在刚刚开始代表舆情的微博上自由挥洒。「Web 2.0」古旧到让人生厌，但突然有一天就看见斯诺登（《永久记录》）和一众人士呼吁要捍卫「Open Web」了。时代在变化，世界在疯狂向右走。头几年虽然也有桎梏之感，却不曾想会像现在这样为深水将没顶而恐惧。民族主义、民粹主义、犬儒，2010 年那个小学生的我不会有可能去理解。好在彼时世界没有用这些主义的丑恶包裹我。它们真的来的时候，我已经不怕了。这让我感激 2010s，虽然向右急转已完成，但我却侥幸拥有在相对健康的环境中成长的机会，并从每天发生的事件中慢慢触及了世界的本质（或是我自以为是的本质？）。&lt;/p&gt;
-
-&lt;p&gt;从文化内容中获益颇多，我不愿意也没法评出 2010s 最重要唱片 / 电影 / 游戏 / 书籍 / 科技产品榜单。尤其是我作为一个中国大陆公民，看到很多重要、有价值的作品如今惨遭封杀，评选一个心目中的榜单只会徒增悲伤。如今技术的人文属性被公认重要（让我们意识到这一点的那个人也在 2010s 去世了，我很想他）。也是得益 / 受害于技术进步，文化产业在 2010s 发生了巨大且深刻的转变。从这一点可以理解为什么 The Verge 说 iPhone 4 当之无愧是它们评出的 2010s 百件科技产品之首。如果没有 iPhone 4，会不会就没有事实上的「移动互联网」，Netflix 就少了一个颠覆电影行业的机会？亲眼见证所有的一切发生很刺激。&lt;/p&gt;
-
-&lt;p&gt;学期将结束，利用考试间隔的空闲时间把我在 2010s 留存的照片、聊天记录、物件、作品和封存的信件草草看了一遍。在之前的岁月伸出手想要抓住更之前的时光，是很徒劳，也是因为不知道故事还在继续发生着。2010s 真的要结束了，让我最后温柔看一眼。&lt;/p&gt;
 </content>
  </entry>
  
@@ -573,74 +1219,6 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;想到群體之間的分裂近於不可彌合，感嘆深深的深圳灣我們再也無法飛過。以後若去到九龍公園游泳池，不止弔唁倒閉的 HMV Square，也滿目都是你的歌聲。&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Designed by Apple in California, An Unbox</title>
-   <link href="http://localhost:4000/2019/08/30/Designed-by-Apple-in-California/"/>
-   <updated>2019-08-30T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2019/08/30/Designed-by-Apple-in-California</id>
-   <content type="html">&lt;p&gt;去年還不知前年，托朋友在香港買了英文版的小號「Designed by Apple in California」。香港順豐寄到大陸家中，一直沒捨得拆開。
-今天沒忍住，拆了，一睹尊榮。&lt;/p&gt;
-
-&lt;p class=&quot;message&quot;&gt;《Designed by Apple in California》透過 450 張我們的產品及其製造過程的相片，記錄了 Apple 20 年來的設計。這段視覺歷史，從 iMac 跨越至 Apple Pencil，闡述了創新材料及技術，讓每個細節真確呈現。這本精裝書冊，選用了經特別研磨的德國紙張，配上鍍啞銀邊，以八色分色及低鬼影油墨印製，編製歷時八年多，細意精心之處，與當中展示的產品同出一轍。Apple 一貫在設計、工程及製造上的一絲不苟，我們以此書致敬，亦以此書為證。&lt;/p&gt;
-
-&lt;h3 id=&quot;the-unbox&quot;&gt;&lt;em&gt;The Unbox&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqk55vslj319a0u0dm6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;!--excerpt--&gt;
-
-&lt;p&gt;打開順豐的快遞包裹，就可以看見 Apple 的白色紙盒包裝。這居然不是最後一層包裝。&lt;img src=&quot;/Users/kev1ngu/Downloads/Designed by Apple in California/Lightroom catalog/轉存/KEV_1460.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqqbhnf7j319b0u0he2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;這張質感與印刷精細度都極為優秀的紙上面印滿了 Apple 的 iconic design。真是極好的品質，不想讓它有任何破損，小心翼翼的放到一邊。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hqpavpctj319b0u0npm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;一層層的精緻包裝會在無形間提升對書本體的期待，拆 Designed by Apple 能獲得比 unbox 任何一件 Apple 產品都大的儀式感。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr2w8tbvj319b0u0x6v.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr4zojisj319b0u0u14.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;dedicated-to-steve-jobs&quot;&gt;&lt;em&gt;Dedicated to Steve Jobs&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hr8r6o6xj31400u0qva.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我打心裡知道我不可能忍住不拆，但我完全沒有料到 Jony Ive 會先行一步離開 Apple。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hra5ogewj31400u07wo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrexhbdpj319a0u0e86.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrf4vv0kj30u00u0x6s.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hrfe9tj6j31400u0e87.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://tva1.sinaimg.cn/large/006y8mN6gy1g6hsyapkexj319b0u0npl.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;coda&quot;&gt;&lt;em&gt;Coda&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;HK$1,588，對於一本畫冊，尤其是這種品質的畫冊來說應該不算貴。但對於當時的我來說完全不是一個小數目。此書現已售罄，謝謝一咬牙購入它的自己，謝謝促成我購得此書的朋友，謝謝 Apple。&lt;/p&gt;
-
-&lt;p&gt;什麼是設計？為什麼設計？&lt;/p&gt;
-
-&lt;p&gt;This is the answer.&lt;/p&gt;
 </content>
  </entry>
  
@@ -787,7 +1365,7 @@ WWDC 2019 还有八天开幕。希望 iOS 能给大尺寸和 OLED 屏的 iPhone 
 
 &lt;p&gt;The moment finnaly came, I made up my mind that I should jump out of the trap set by Qzone and many other blogging-like service provider like Jianshu (but thumbs up for Medium), and of course, my laziness. And, really do something.&lt;/p&gt;
 
-&lt;p class=&quot;message&quot;&gt;Thankfully I started out, and I won't call it a miss.&lt;/p&gt;
+&lt;p class=&quot;message&quot;&gt;Thankfully I started out, and I won&apos;t call it a miss.&lt;/p&gt;
 
 &lt;p&gt;The basic idea is to make this a place where I can have a rest, like, &lt;em&gt;a home on the Internet&lt;/em&gt;. It is expected that I will share new gadgets, trends, perspectives and thoughts on great works of liberal arts. If you see any older post, that would be my previous posts somewhere else(mostly in Chinese).&lt;/p&gt;
 
@@ -796,31 +1374,6 @@ WWDC 2019 还有八天开幕。希望 iOS 能给大尺寸和 OLED 屏的 iPhone 
 &lt;p&gt;Like Jeremy Clarkson said on his DriveTribe: &lt;em&gt;My Tribe, My Rules.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Yes, &lt;em&gt;My Blog, My Rules&lt;/em&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>eSIM 低头和华为抬头</title>
-   <link href="http://localhost:4000/2018/09/13/the-failure-of-eSIM-and-the-winning-of-Huawei/"/>
-   <updated>2018-09-13T00:00:00+08:00</updated>
-   <id>http://localhost:4000/2018/09/13/the-failure-of-eSIM-and-the-winning-of-Huawei</id>
-   <content type="html">&lt;p&gt;Twitter 上的「宇宙漂流井底之蛙」@yllan 在今年七月新 MacBook Pro 发表的时候说：&lt;/p&gt;
-
-&lt;p&gt;「十年前的我會想買台嶄新的 MBP 好好犒賞自己爽一下。現在？也許沒那麽簡單了。我想要一個有希望的社會、環境可以生活在裏面。」&lt;/p&gt;
-
-&lt;p&gt;时隔两个月，新的 iPhone 如期而至。以我所见，没有人对此感到兴致盎然。是的，依然会有大量的人会在 9 月 14 日下午去抢金色的 512GB 款 iPhone XS Max。又如何？即使是同样乏善可陈的 iPhone X 发表完之后，我仍会在 YouTube 上浪费整天，去看新的 iOS 采用了什么样全新的手势交互，去期待这次的玻璃会有怎么样的全然一体的质感。你知道的，新的 iPhone 永远有惊喜，不一样。&lt;/p&gt;
-
-&lt;p&gt;但 2018 年的新 iPhone 们是三颗让人觉得绝望的炸弹。是的，iPhone XS 们依旧会是制造工艺处理器屏幕相机最好的电话，即使没有什么新的东西。但 Phil Schiller 的确开始在台上给你讲「双开双待」是什么东西了，这没有什么不好，但他也的确单独留出一页幻灯片，告诉身处中国内陆的我们：&lt;/p&gt;
-
-&lt;p&gt;这次虽然惊喜不多，失望确是巨大的。只有物理双卡。
-&lt;!--excerpt--&gt;
-数年前苹果就开始在能用蜂窝 4G 网的 iPad 上开始推行电子的 SIM 卡，这样用户可以在需要的时候随意切换自己使用的服务。而去年的 Apple Watch Series 3 也搭载了这项功能以实现 4G 数据连线。后续是，大陆用户只有寥寥数个城市的联通用户能用上这项功能。&lt;/p&gt;
-
-&lt;p&gt;「不忘初心」是说滥的话。四十年来，最重要的不是苹果的设备本身如何进化，而是这些设备上诞生了无数重要且有趣的事物。不要忘了，就连互联网本身都是在一台 NeXT 工作站上展现雏形。许多人没有意识到的是， iOS 和 macOS 才是至关重要的「平台」，Mac 和 iPhone 只是它的物理形态而已。新的 iOS 设备是什么样子，从来无关紧要，我关心的只是，iOS 能在新的设备上充分发挥自己的潜力吗。进而，能让用 iOS 的我激发自己的潜力吗？Alan Kay 说，对软件认真的人应该有自己的硬件。这话从来不假。有这样的 iOS，才有这样的 iPhone。&lt;/p&gt;
-
-&lt;p&gt;问题是：像 iOS 这样的技术在社会中到底以什么样的姿态出现？三十多年前，打造 Mac 的工程师们是一群艺术家。先驱们抱着对未来怎样的愿景去打造这所有的事物，作为用户的我们以什么样的心态利用这些设备和软件去创造所有的东西。期望努力之下的社会和世人能变成怎样的模样，期望技术在社会进步的过程里面扮演什么样的角色。期望技术进步之后的社会能以同样的姿态反过来促进技术的进步。eSIM 作为有潜力的新技术在推广过程中依旧被人为设下重重障碍。特供版物理双卡不是苹果的错，但的确是苹果的无奈。&lt;/p&gt;
-
-&lt;p&gt;沮丧吗？实用主义从来没有像今天这样获得数量众多的拥趸，技术也从来没有像今天这样尴尬过。华为在发表会后说自己「稳了」。微博下面会有人说华为有了 iOS 就无敌了。止增笑耳。eSIM 低头，华为抬头。@yllan 作为一个台湾人提出那样的期望，对岸的我除了认同也的确没有什么好说的。是普世的追求，好像在我们这里就尤其艰难。希望我们还有时间吧。&lt;/p&gt;
 </content>
  </entry>
  
