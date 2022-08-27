@@ -18,7 +18,7 @@ e) 音响系统没「那么」好，或者不在乎出来的声音用不满 100%
 她妈的，这也太 niche 了。做这么 niche 的产品，这辈子不会再怀疑 Spotify 要充满世界每一个角落愿景之真诚。问题是，这是一个硬件产品。做硬件需要大量的资金，押注更大。买的人又注定这么少，不知道 Spotify 在想什么。<br>
 <!--excerpt-->
 自我定位属于目标人群吧，所以我买了，恰好赶上打折（下完单又降了两次价，什么叫不要脸，什么叫清库存，都学学）。打折的时候已经传出要砍掉这条产品线的消息，但想到有可能是「傻逼特斯拉大屏爱好者太多了 not 产品本身一坨屎」的缘故，一口气买了俩：这辈子有的是根本没屏幕的燃油车要玩。<br>
-<img src="http://wx1.sinaimg.cn/large/6d4c710cly1h5lj1l5j2bj234022oqv5.jpg" alt="IMG_0733" style="zoom:50%;" /><br>
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="IMG_0733" style="zoom:50%;" /><br>
 安装很简单，可以选择 CD 插槽 / 出风口 / 仪表台三种方式固定本体，蓝牙一连，Spotify 里面一设置就好了。亮度和色彩都是 ok 的。<br>
 <img src="http://wx4.sinaimg.cn/large/6d4c710cly1h5lj1gw4p3j234022oqv5.jpg" alt="IMG_0733" style="zoom:50%;" /><br>
 工业设计部分是合格的，按键手感阻尼适度，旋钮有 click 的段落感。软件部分应该是 Spotify 的传统优势了，尤其是 Now Playing 的界面，专辑封面 + 好看的字体 + 与封面主色调契合的纯色背景，开车的时候余光扫到，赏心悦目。<br>
